@@ -1,0 +1,7 @@
+{
+  "name": "Gains DAI",
+  "symbol": "gDAI",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0xd85e038593d7a098614721eae955ec2022b9b91b"
+}
