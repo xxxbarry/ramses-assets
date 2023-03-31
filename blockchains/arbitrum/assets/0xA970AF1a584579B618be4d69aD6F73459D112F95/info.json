@@ -1,7 +1,7 @@
 {
-  "name": "Vesta",
-  "symbol": "VSTA",
+  "name": "Synth USD",
+  "symbol": "sUSD",
   "type": "ERC20",
   "decimals": 18,
-  "id": "0xa684cd057951541187f288294a1e1c2646aa2d24"
+  "id": "0xA970AF1a584579B618be4d69aD6F73459D112F95"
 }
