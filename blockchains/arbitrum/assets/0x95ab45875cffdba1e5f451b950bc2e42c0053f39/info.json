@@ -1,0 +1,7 @@
+{
+  "name": "Staked Frax Ether",
+  "symbol": "LUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x95ab45875cffdba1e5f451b950bc2e42c0053f39"
+}
