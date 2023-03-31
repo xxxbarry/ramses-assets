@@ -1,0 +1,7 @@
+{
+  "name": "FRAX Stablecoin",
+  "symbol": "FRAX",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x17fc002b466eec40dae837fc4be5c67993ddbd6f"
+}
