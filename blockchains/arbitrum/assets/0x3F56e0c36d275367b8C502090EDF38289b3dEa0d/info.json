@@ -1,0 +1,7 @@
+{
+    "name": "MAI Stablecoin",
+    "symbol": "MAI",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0x3f56e0c36d275367b8c502090edf38289b3dea0d"
+  }
