@@ -1,0 +1,7 @@
+{
+  "name": "Granary Token",
+  "symbol": "GRAIN",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x80bB30D62a16e1F2084dEAE84dc293531c3AC3A1"
+}
