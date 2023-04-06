@@ -106,84 +106,72 @@
         "address": "0xaae0c3856e665ff9b3e2872b6d75939d810b7e40",
         "symbol": "YFX",
         "decimals": 18
-
       },
       {
         "name": "YFI",
         "address": "0x82e3a8f066a6989666b031d916c43672085b1582",
         "symbol": "YFI",
         "decimals": 18
-
       },
       {
         "name": "FRAX",
         "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
         "symbol": "FRAX",
         "decimals": 18
-
       },
       {
         "name": "JRT",
         "address": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e",
         "symbol": "JRT",
         "decimals": 18
-
       },
       {
         "name": "TAROT",
         "address": "0x6688b00f0c23a4a546beaae51a7c90c439895d48",
         "symbol": "TAROT",
         "decimals": 18
-
       },
       {
         "name": "DOLA",
         "address": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6",
         "symbol": "DOLA",
         "decimals": 18
-
       },
       {
         "name": "GMX",
         "address": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
         "symbol": "GMX",
         "decimals": 18
-
       },
       {
         "name": "DEUS",
         "address": "0xde5ed76e7c05ec5e4572cfc88d1acea165109e44",
         "symbol": "DEUS",
         "decimals": 18
-
       },
       {
         "name": "DEI",
         "address": "0xde1e704dae0b4051e80dabb26ab6ad6c12262da0",
         "symbol": "DEI",
         "decimals": 18
-
       },
       {
         "name": "LQDR",
         "address": "0x03e8d118a1864c7dc53bf91e007ab7d91f5a06fa",
         "symbol": "LQDR",
         "decimals": 18
-
       },
       {
         "name": "xSHRAP",
         "address": "0x1e3c6c53F9f60BF8aAe0D7774C21Fa6b1afddC57",
         "symbol": "xSHRAP",
         "decimals": 18
-
       },
       {
         "name": "fBOMB",
         "address": "0x74ccbe53F77b08632ce0CB91D3A545bF6B8E0979",
         "symbol": "fBOMB",
         "decimals": 18
-
       },
       {
         "name": "DAO",
@@ -430,6 +418,12 @@
         "decimals": 18,
         "name": "Coinbase Wrapped Staked ETH",
         "symbol": "cbETH"
+      },
+      {
+        "address": "0xDDc0385169797937066bBd8EF409b5B3c0dFEB52",
+        "decimals": 9,
+        "name": "Wrapped USDR",
+        "symbol": "wUSDR"
       }
     ]
   ],
