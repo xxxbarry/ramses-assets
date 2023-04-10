@@ -41,12 +41,6 @@
         "decimals": 18
       },
       {
-        "name": "DPX",
-        "address": "0x6c2c06790b3e3e3c38e12ee22f8183b37a13ee55",
-        "symbol": "DPX",
-        "decimals": 18
-      },
-      {
         "name": "PLS",
         "address": "0x51318b7d00db7acc4026c88c3952b66278b6a67f",
         "symbol": "PLS",
@@ -243,12 +237,6 @@
         "name": "UNIDX",
         "address": "0x5429706887FCb58a595677B73E9B0441C25d993D",
         "symbol": "UNIDX",
-        "decimals": 18
-      },
-      {
-        "name": "PRIMAL",
-        "address": "0xbb2CE458f78Bc1e320E69FD568882f89Be0d6BfF",
-        "symbol": "PRIMAL",
         "decimals": 18
       },
       {
