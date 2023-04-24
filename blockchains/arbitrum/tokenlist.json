@@ -424,6 +424,12 @@
         "decimals": 18,
         "name": "Firebird Aggregator",
         "symbol": "FBA"
+      },
+      {
+        "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
+        "decimals": 18,
+        "name": "EUROe Stablecoin",
+        "symbol": "EUROe"
       }
     ]
   ],
