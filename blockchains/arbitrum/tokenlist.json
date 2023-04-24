@@ -418,6 +418,12 @@
         "decimals": 18,
         "name": "agEUR",
         "symbol": "agEUR"
+      },
+      {
+        "address": "0x13aabc0a9a5d6865da8fd0296080e172cf8bb958",
+        "decimals": 18,
+        "name": "Firebird Aggregator",
+        "symbol": "FBA"
       }
     ]
   ],
