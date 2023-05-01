@@ -436,6 +436,18 @@
         "decimals": 18,
         "name": "EUROe Stablecoin",
         "symbol": "EUROe"
+      },
+      {
+        "address": "0xD67A097dCE9d4474737e6871684aE3c05460F571",
+        "decimals": 18,
+        "name": "GND Protocol",
+        "symbol": "GND"
+      },
+      {
+        "address": "0xDba35afc5f4d5AF4933C29a157Dab3975F3eee9B",
+        "decimals": 18,
+        "name": "Pigs Can Fly",
+        "symbol": "PORK"
       }
     ]
   ],
