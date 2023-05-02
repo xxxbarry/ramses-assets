@@ -448,6 +448,18 @@
         "decimals": 9,
         "name": "Pigs Can Fly",
         "symbol": "PORK"
+      },
+      {
+        "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
+        "decimals": 6,
+        "name": "AIDOGE",
+        "symbol": "AIDOGE"
+      },
+      {
+        "address": "0x7C8a1A80FDd00C9Cccd6EbD573E9EcB49BFa2a59",
+        "decimals": 18,
+        "name": "AICODE",
+        "symbol": "AICODE"
       }
     ]
   ],
