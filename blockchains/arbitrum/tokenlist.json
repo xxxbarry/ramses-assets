@@ -466,6 +466,12 @@
         "decimals": 9,
         "name": "xPigsCanFly",
         "symbol": "xPORK"
+      },
+      {
+        "address": "0x3DB4B7DA67dd5aF61Cb9b3C70501B1BdB24b2C22",
+        "decimals": 18,
+        "name": "GMD Protocol USDC",
+        "symbol": "gmdUSDC"
       }
     ]
   ],
