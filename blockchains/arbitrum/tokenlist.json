@@ -478,6 +478,12 @@
         "decimals": 18,
         "name": "XCAD Network PLAY",
         "symbol": "PLAY"
+      },
+      {
+        "address": "0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028",
+        "decimals": 18,
+        "name": "Olympus",
+        "symbol": "OHM"
       }
     ]
   ],
