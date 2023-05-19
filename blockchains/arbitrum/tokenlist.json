@@ -496,6 +496,18 @@
         "decimals": 18,
         "name": "unshETH Ether",
         "symbol":"unshETH"
+      },
+      {
+        "address": "0x46F74778b265Df3a15EC9695CCd2fD3869ca848c",
+        "decimals": 18,
+        "name": "Ankr Network",
+        "symbol": "ANKR"
+      },
+      {
+        "address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
+        "decimals": 18,
+        "name": "Ankr Staked ETH",
+        "symbol": "ankrETH"
       }
     ]
   ],
