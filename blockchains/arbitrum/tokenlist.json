@@ -444,6 +444,12 @@
         "symbol": "GND"
       },
       {
+        "address":"0x40EA7f6D6964413D4a26A0a268542DAE9F55768E",
+        "decimals": 18,
+        "name": "xGND",
+        "symbol": "xGND"
+      },
+      {
         "address": "0xDba35afc5f4d5AF4933C29a157Dab3975F3eee9B",
         "decimals": 9,
         "name": "Pigs Can Fly",
