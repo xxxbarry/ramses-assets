@@ -508,6 +508,12 @@
         "decimals": 18,
         "name": "Ankr Staked ETH",
         "symbol": "ankrETH"
+      },
+      {
+        "address":"0x05d35769a222AfFd6185e20F3f3676Abde56C25F",
+        "decimals": 18,
+        "name": "Unlimited Network Token",
+        "symbol": "UWU"
       }
     ]
   ],
