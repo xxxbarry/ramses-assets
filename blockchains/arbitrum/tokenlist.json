@@ -514,6 +514,12 @@
         "decimals": 18,
         "name": "Unlimited Network Token",
         "symbol": "UWU"
+      },
+      {
+        "address":"0xAf5db6E1CC585ca312E8c8F7c499033590cf5C98",
+        "decimals":18,
+        "name": "Arken Token",
+        "symbol": "ARKEN"
       }
     ]
   ],
