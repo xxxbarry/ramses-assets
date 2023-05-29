@@ -520,6 +520,12 @@
         "decimals":18,
         "name": "Arken Token",
         "symbol": "ARKEN"
+      },
+      {
+        "address": "0xEB4A6679De43Ba75ac5E01c2399c9228E383584B",
+        "decimals": 18,
+        "name": "Bathtub Token",
+        "symbol": "BATH"
       }
     ]
   ],
