@@ -538,6 +538,12 @@
         "decimals": 18,
         "name": "Governance OHM",
         "symbol": "gOHM"
+      },
+      {
+        "address": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
+        "decimals": 9,
+        "name": "Umami",
+        "symbol": "UMAMI"
       }
     ]
   ],
