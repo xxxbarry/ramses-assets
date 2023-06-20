@@ -544,6 +544,12 @@
         "decimals": 9,
         "name": "Umami",
         "symbol": "UMAMI"
+      },
+      {
+        "address": "0xa334884bF6b0A066d553D19e507315E839409e62",
+        "decimals": 18,
+        "name": "Ethos Reserve Note",
+        "symbol": "ERN"
       }
     ]
   ],
