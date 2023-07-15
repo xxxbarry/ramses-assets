@@ -562,6 +562,12 @@
         "decimals": 18,
         "name": "Extended RAM",
         "symbol": "xRAM"
+      },
+      {
+        "address": "0x308F66EBEE21861D304C8013Eb3A9a5fC78A8a6c",
+        "decimals": 18,
+        "name": "SHRAPNEL",
+        "symbol": "SHRAP"
       }
     ]
   ],
