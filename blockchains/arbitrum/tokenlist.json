@@ -568,6 +568,12 @@
         "decimals": 18,
         "name": "SHRAPNEL",
         "symbol": "SHRP"
+      },
+      {
+        "address": "0x63D4dc5376cfB48a885A165cd97BA208b87881c7",
+        "decimals": 18,
+        "name": "PSY Stablecoin: sLSD",
+        "symbol": "sLSD"
       }
     ]
   ],
