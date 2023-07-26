@@ -574,6 +574,12 @@
         "decimals": 18,
         "name": "PSY Stablecoin: sLSD",
         "symbol": "sLSD"
+      },
+      {
+        "address": "0x816E21c33fa5F8440EBcDF6e01D39314541BEA72",
+        "decimals": 18,
+        "name": "LQDR V2",
+        "symbol": "LQDR"
       }
     ]
   ],
