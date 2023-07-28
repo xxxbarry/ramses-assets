@@ -132,9 +132,9 @@
         "decimals": 18
       },
       {
-        "name": "TAROT",
+        "name": "TAROT (OLD)",
         "address": "0x6688b00f0c23a4a546beaae51a7c90c439895d48",
-        "symbol": "TAROT",
+        "symbol": "TAROT_OLD",
         "decimals": 18
       },
       {
@@ -580,6 +580,12 @@
         "decimals": 18,
         "name": "LQDR V2",
         "symbol": "LQDR"
+      },
+      {
+        "address": "0x13278cD824D33A7aDB9f0a9A84ACA7C0D2DEEBf7",
+        "decimals": 18,
+        "name": "Tarot",
+        "symbol": "TAROT"
       }
     ]
   ],
