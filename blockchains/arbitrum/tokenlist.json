@@ -586,6 +586,18 @@
         "decimals": 18,
         "name": "Tarot",
         "symbol": "TAROT"
+      },
+      {
+        "address": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
+        "decimals": 18,
+        "name": "2CRV",
+        "symbol": "2CRV"
+      },
+      {
+        "address": "0x3dFe1324A0ee9d86337d06aEB829dEb4528DB9CA",
+        "decimals": 18,
+        "name": "crvEURSUSD",
+        "symbol": "crvEURSUSD"
       }
     ]
   ],

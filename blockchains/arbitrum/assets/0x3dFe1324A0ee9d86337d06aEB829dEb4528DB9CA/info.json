@@ -1,0 +1,7 @@
+{
+  "name": "crvEURSUSD",
+  "symbol": "crvEURSUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x3dFe1324A0ee9d86337d06aEB829dEb4528DB9CA"
+}
