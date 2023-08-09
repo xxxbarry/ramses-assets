@@ -1,0 +1,7 @@
+{
+  "name": "Alchemix USD",
+  "symbol": "alUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A"
+}

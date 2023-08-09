@@ -598,6 +598,12 @@
         "decimals": 18,
         "name": "crvEURSUSD",
         "symbol": "crvEURSUSD"
+      },
+      {
+        "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
+        "decimals": 18,
+        "name": "Alchemix USD",
+        "symbol": "alUSD"
       }
     ]
   ],
