@@ -90,9 +90,9 @@
       },
 
       {
-        "name": "OATH",
+        "name": "OATHv1",
         "address": "0xa1150db5105987cec5fd092273d1e3cbb22b378b",
-        "symbol": "OATH",
+        "symbol": "OATHv1",
         "decimals": 18
       },
       {

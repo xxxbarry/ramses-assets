@@ -1,6 +1,6 @@
 {
-  "name": "OATH",
-  "symbol": "OATH",
+  "name": "OATHv1",
+  "symbol": "OATHv1",
   "type": "ERC20",
   "decimals": 18,
   "id": "0xa1150db5105987cec5fd092273d1e3cbb22b378b"
