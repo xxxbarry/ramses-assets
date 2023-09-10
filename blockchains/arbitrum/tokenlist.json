@@ -530,8 +530,8 @@
       {
         "address": "0x46F74778b265Df3a15EC9695CCd2fD3869ca848c",
         "decimals": 18,
-        "name": "Multichain Ankr Network",
-        "symbol": "multiANKR"
+        "name": "Multichain Ankr",
+        "symbol": "mANKR"
       },
       {
         "address": "0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861",
