@@ -534,6 +534,12 @@
         "symbol": "mANKR"
       },
       {
+        "address": "0x8EC1877698ACF262Fe8Ad8a295ad94D6ea258988",
+        "decimals": 18,
+        "name": "Davos USD",
+        "symbol": "DUSD"
+      },
+      {
         "address": "0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861",
         "decimals": 18,
         "name": "Ankr Network",
