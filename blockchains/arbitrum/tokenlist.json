@@ -653,6 +653,18 @@
         "decimals": 6,
         "name": "Axelar Wrapped USDC",
         "symbol": "axlUSDC"
+      },
+      {
+        "address": "0xeEE18334c414A47FB886a7317E1885b2Bfb8c2A6",
+        "decimals": 18,
+        "name": "Savvy BTC",
+        "symbol": "svBTC"
+      },
+      {
+        "address": "0xF202Ab403Cd7E90197ec0f010ee897E283037706",
+        "decimals": 18,
+        "name": "Savvy USD",
+        "symbol": "svUSD"
       }
     ]
   ],
