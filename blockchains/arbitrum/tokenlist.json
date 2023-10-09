@@ -150,6 +150,12 @@
         "decimals": 18
       },
       {
+        "name": "ICHI",
+        "address": "0xadf5DD3E51bF28aB4F07e684eCF5d00691818790",
+        "symbol": "ICHI",
+        "decimals": 18
+      },
+      {
         "name": "JRT",
         "address": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e",
         "symbol": "JRT",
