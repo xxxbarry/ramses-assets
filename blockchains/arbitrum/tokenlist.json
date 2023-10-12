@@ -162,6 +162,12 @@
         "decimals": 18
       },
       {
+        "name": "GoldenBoys",
+        "address": "0x8b5e4C9a188b1A187f2D1E80b1c2fB17fA2922e1",
+        "symbol": "GOLD",
+        "decimals": 18
+      },
+      {
         "name": "TAROT (OLD)",
         "address": "0x6688b00f0c23a4a546beaae51a7c90c439895d48",
         "symbol": "TAROT_OLD",
