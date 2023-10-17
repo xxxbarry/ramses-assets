@@ -144,6 +144,12 @@
         "decimals": 18
       },
       {
+        "name": "Alchemix",
+        "address": "0x27b58D226fe8f792730a795764945Cf146815AA7",
+        "symbol": "ALCX",
+        "decimals": 18
+      },
+      {
         "name": "FRAX",
         "address": "0x17FC002b466eEc40DaE837Fc4bE5c67993ddBd6F",
         "symbol": "FRAX",
