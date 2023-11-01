@@ -186,6 +186,18 @@
         "decimals": 18
       },
       {
+        "name": "Insane Technology Index",
+        "address": "0x5431136817a5c3449F3057f8778bD971d8e48529",
+        "symbol": "ITX",
+        "decimals": 18
+      },
+      {
+        "name": "Insane Technology",
+        "address": "0x18cB93A4f827840a25789659378e429c00D13590",
+        "symbol": "IT",
+        "decimals": 6
+      },
+      {
         "name": "DOLA",
         "address": "0x6A7661795C374c0bFC635934efAddFf3A7Ee23b6",
         "symbol": "DOLA",
