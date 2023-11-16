@@ -192,6 +192,12 @@
         "decimals": 18
       },
       {
+        "name": "USDV",
+        "address": "0x323665443CEf804A3b5206103304BD4872EA4253",
+        "symbol": "USDV",
+        "decimals": 6
+      },
+      {
         "name": "Insane Technology",
         "address": "0x18cB93A4f827840a25789659378e429c00D13590",
         "symbol": "IT",
