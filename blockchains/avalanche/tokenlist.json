@@ -1,0 +1,98 @@
+{
+  "name": "Trust Wallet: Avalanche List",
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "timestamp": "2022-01-27T14:33:26.183301",
+  "tokens": [
+    [
+      {
+        "name": "Bridged USDT",
+        "address": "0xc7198437980c041c805a1edcba50c1ce5db95118",
+        "symbol": "USDT.e",
+        "decimals": 6
+      },
+      {
+        "name": "Bridged USDC",
+        "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+        "symbol": "USDC.e",
+        "decimals": 6
+      },
+      {
+        "name": "USD Coin",
+        "address": "0xb97ef9ef8734c71904d8002f8b6bc66dd9c48a6e",
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      {
+        "name": "Tether USD",
+        "address": "0x9702230a8ea53601f5cd2dc00fdbc13d4df4a8c7",
+        "symbol": "USDT",
+        "decimals": 6
+      },
+      {
+        "name": "Chainlink Token",
+        "address": "0x5947bb275c521040051d82396192181b413227a3",
+        "symbol": "LINK.e",
+        "decimals": 18
+      },
+      {
+        "name": "Wrapped AVAX",
+        "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+        "symbol": "WAVAX",
+        "decimals": 18
+      },
+      {
+        "name": "Wrapped BTC",
+        "address": "0x50b7545627a5162f82a992c33b87adc75187b218",
+        "symbol": "BTC.e",
+        "decimals": 8
+      },
+      {
+        "name": "Dai Stablecoin",
+        "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+        "symbol": "DAI.e",
+        "decimals": 18
+      },
+      {
+        "name": "Frax",
+        "address": "0xd24c2ad096400b6fbcd2ad8b24e7acbc21a1da64",
+        "symbol": "FRAX",
+        "decimals": 18
+      },
+      {
+        "name": "Frax Share",
+        "address": "0x214db107654ff987ad859f34125307783fc8e387",
+        "symbol": "FXS",
+        "decimals": 18
+      },
+      {
+        "name": "yearn.finance",
+        "address": "0x9eaac1b23d935365bd7b542fe22ceee2922f52dc",
+        "symbol": "YFI.e",
+        "decimals": 18
+      },
+      {
+        "name": "Bitcoin",
+        "address":"0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+        "symbol": "BTC.b",
+        "decimals": 8
+      },
+      {
+        "name": "BENQI",
+        "address":"0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+        "symbol": "QI",
+        "decimals": 18
+      },
+      {
+        "name": "Euro Coin",
+        "address":"0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+        "symbol": "EURC",
+        "decimals": 6
+      }
+    ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
