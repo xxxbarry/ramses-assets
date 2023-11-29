@@ -180,6 +180,18 @@
         "decimals": 18
       },
       {
+        "name": "Connext",
+        "address": "0x58b9cB810A68a7f3e1E4f8Cb45D1B9B3c79705E8",
+        "symbol": "NEXT",
+        "decimals": 18
+      },
+      {
+        "name": "Vertex",
+        "address": "0x95146881b86B3ee99e63705eC87AfE29Fcc044D9",
+        "symbol": "VRTX",
+        "decimals": 18
+      },
+      {
         "name": "TAROT (OLD)",
         "address": "0x6688b00f0c23a4a546beaae51a7c90c439895d48",
         "symbol": "TAROT_OLD",
