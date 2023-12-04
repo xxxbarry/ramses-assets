@@ -174,6 +174,18 @@
         "decimals": 18
       },
       {
+        "name": "Good Entry",
+        "address": "0x17176a9868F321411B15CCb9b934Cf95597E89c4",
+        "symbol": "GOOD",
+        "decimals": 18
+      },
+      {
+        "name": "JARVIS",
+        "address": "0x2C7941a0fE9C52223B229747322aF16160161C98",
+        "symbol": "JARVIS",
+        "decimals": 18
+      },
+      {
         "name": "GoldenBoys",
         "address": "0x8b5e4C9a188b1A187f2D1E80b1c2fB17fA2922e1",
         "symbol": "GOLD",
