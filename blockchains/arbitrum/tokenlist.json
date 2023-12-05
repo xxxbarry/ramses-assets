@@ -180,6 +180,12 @@
         "decimals": 18
       },
       {
+        "name": "Celestia",
+        "address": "0xD56734d7f9979dD94FAE3d67C7e928234e71cD4C",
+        "symbol": "TIA.n",
+        "decimals": 6
+      },
+      {
         "name": "JARVIS",
         "address": "0x2C7941a0fE9C52223B229747322aF16160161C98",
         "symbol": "JARVIS",
