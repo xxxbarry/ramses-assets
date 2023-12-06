@@ -186,6 +186,12 @@
         "decimals": 6
       },
       {
+        "name": "Staked FRAX",
+        "address": "0xe3b3FE7bcA19cA77Ad877A5Bebab186bEcfAD906",
+        "symbol": "sFRAX",
+        "decimals": 18
+      },
+      {
         "name": "JARVIS",
         "address": "0x2C7941a0fE9C52223B229747322aF16160161C98",
         "symbol": "JARVIS",
