@@ -1,7 +1,7 @@
 {
-  "name": "JARVIS",
-  "symbol": "JARVIS",
+  "name": "Fluid USDC",
+  "symbol": "fUSDC",
   "type": "ERC20",
-  "decimals": 18,
-  "id": "0x2C7941a0fE9C52223B229747322aF16160161C98"
+  "decimals": 6,
+  "id": "0x4CFA50B7Ce747e2D61724fcAc57f24B748FF2b2A"
 }
