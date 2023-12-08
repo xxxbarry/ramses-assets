@@ -168,6 +168,12 @@
         "decimals": 18
       },
       {
+        "name": "Ennead neadRAM Compounder",
+        "address": "0xF0cA868f6642366dd3a1EF22C7457a5D1dbca6E4",
+        "symbol": "neadAC-neadRAM",
+        "decimals": 18
+      },
+      {
         "name": "JRT",
         "address": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e",
         "symbol": "JRT",
