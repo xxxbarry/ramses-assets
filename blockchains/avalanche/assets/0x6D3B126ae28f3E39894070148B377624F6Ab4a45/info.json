@@ -1,0 +1,7 @@
+{
+  "name": "Frax Ether",
+  "symbol": "frxETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x2018B0CA0eDcE80800851958bD094dD4a8DA1fc4"
+}

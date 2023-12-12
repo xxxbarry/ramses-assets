@@ -72,19 +72,19 @@
       },
       {
         "name": "Bitcoin",
-        "address":"0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+        "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
         "symbol": "BTC.b",
         "decimals": 8
       },
       {
         "name": "BENQI",
-        "address":"0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
+        "address": "0x8729438eb15e2c8b576fcc6aecda6a148776c0f5",
         "symbol": "QI",
         "decimals": 18
       },
       {
         "name": "Euro Coin",
-        "address":"0x152b9d0FdC40C096757F570A51E494bd4b943E50",
+        "address": "0x152b9d0FdC40C096757F570A51E494bd4b943E50",
         "symbol": "EURC",
         "decimals": 6
       },
@@ -92,6 +92,24 @@
         "name": "PHARAOH",
         "address": "0xAAAB9D12A30504559b0C5a9A5977fEE4A6081c6b",
         "symbol": "PHAR",
+        "decimals": 18
+      },
+      {
+        "name": "Colony Token",
+        "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
+        "symbol": "CLY",
+        "decimals": 18
+      },
+      {
+        "name": "Frax Ether",
+        "address": "0x2018B0CA0eDcE80800851958bD094dD4a8DA1fc4",
+        "symbol": "frxETH",
+        "decimals": 18
+      },
+      {
+        "name": "Staked Fraxx Ether",
+        "address": "0x6D3B126ae28f3E39894070148B377624F6Ab4a45",
+        "symbol": "sfrxETH",
         "decimals": 18
       }
     ]
