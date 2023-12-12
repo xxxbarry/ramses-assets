@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped BTC",
+  "symbol": "WBTC.e",
+  "type": "ERC20",
+  "decimals": 8,
+  "id": "0x50b7545627a5162f82a992c33b87adc75187b218"
+}

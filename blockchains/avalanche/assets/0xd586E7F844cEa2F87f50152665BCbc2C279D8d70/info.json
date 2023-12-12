@@ -1,0 +1,7 @@
+{
+  "name": "Bridged DAI",
+  "symbol": "DAI.e",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70"
+}
