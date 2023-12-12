@@ -1,0 +1,7 @@
+{
+  "name": "Chainlink Token",
+  "symbol": "LINK",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x5947bb275c521040051d82396192181b413227a3"
+}
