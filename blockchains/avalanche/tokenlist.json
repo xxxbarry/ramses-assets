@@ -117,6 +117,12 @@
         "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
         "symbol": "WETH",
         "decimals": 18
+      },
+      {
+        "name": "COQINU",
+        "address": "0x420FcA0121DC28039145009570975747295f2329",
+        "symbol": "COQ",
+        "decimals": 18
       }
     ]
   ],
