@@ -111,6 +111,12 @@
         "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
         "symbol": "YAK",
         "decimals": 18
+      },
+      {
+        "name": "Wrapped Ether",
+        "address": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB",
+        "symbol": "WETH",
+        "decimals": 18
       }
     ]
   ],

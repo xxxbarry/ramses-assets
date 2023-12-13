@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped Ether",
+  "symbol": "WETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB"
+}
