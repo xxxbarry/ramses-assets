@@ -1,0 +1,7 @@
+{
+  "name": "Yak Token",
+  "symbol": "YAK",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7"
+}

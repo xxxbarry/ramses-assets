@@ -105,6 +105,12 @@
         "address": "0x6D3B126ae28f3E39894070148B377624F6Ab4a45",
         "symbol": "sfrxETH",
         "decimals": 18
+      },
+      {
+        "name": "Yak Token",
+        "address": "0x59414b3089ce2AF0010e7523Dea7E2b35d776ec7",
+        "symbol": "YAK",
+        "decimals": 18
       }
     ]
   ],
