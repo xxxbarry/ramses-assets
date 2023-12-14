@@ -125,9 +125,15 @@
         "decimals": 18
       },
       {
-        "name": "Escrowed PHARAOH",
+        "name": "Escrowed PHAR",
         "address": "0xAAA940c5CF5ECa01931bD361F71E288485d3187A",
         "symbol": "xPHAR",
+        "decimals": 18
+      },
+      {
+        "name": "Metis",
+        "address": "0xceCB301c2e2A04dD631428C386DD21db70716F8a",
+        "symbol": "METIS",
         "decimals": 18
       }
     ]
