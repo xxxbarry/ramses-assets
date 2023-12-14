@@ -123,6 +123,12 @@
         "address": "0x420FcA0121DC28039145009570975747295f2329",
         "symbol": "COQ",
         "decimals": 18
+      },
+      {
+        "name": "Escrowed PHARAOH",
+        "address": "0xAAA940c5CF5ECa01931bD361F71E288485d3187A",
+        "symbol": "xPHAR",
+        "decimals": 18
       }
     ]
   ],
