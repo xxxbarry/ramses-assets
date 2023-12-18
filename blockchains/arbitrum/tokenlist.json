@@ -180,6 +180,12 @@
         "decimals": 18
       },
       {
+        "name": "ArbiDoge",
+        "address": "0x155f0DD04424939368972f4e1838687d6a831151",
+        "symbol": "ADoge",
+        "decimals": 18
+      },
+      {
         "name": "Good Entry",
         "address": "0x17176a9868F321411B15CCb9b934Cf95597E89c4",
         "symbol": "GOOD",
