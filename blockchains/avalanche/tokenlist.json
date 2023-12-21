@@ -135,6 +135,12 @@
         "address": "0xceCB301c2e2A04dD631428C386DD21db70716F8a",
         "symbol": "METIS",
         "decimals": 18
+      },
+      {
+        "name": "KIMBO",
+        "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
+        "symbol": "KIMBO",
+        "decimals": 18
       }
     ]
   ],
