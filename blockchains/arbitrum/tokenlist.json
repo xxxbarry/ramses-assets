@@ -162,6 +162,12 @@
         "decimals": 18
       },
       {
+        "name": "Size",
+        "address": "0x939727d85D99d0aC339bF1B76DfE30Ca27C19067",
+        "symbol": "SIZE",
+        "decimals": 18
+      },
+      {
         "name": "ICHI",
         "address": "0xadf5DD3E51bF28aB4F07e684eCF5d00691818790",
         "symbol": "ICHI",
