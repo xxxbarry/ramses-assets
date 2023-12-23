@@ -318,6 +318,12 @@
         "decimals": 18
       },
       {
+        "name": "OmniCat",
+        "address": "0x9e20461bc2c4c980f62f1B279D71734207a6A356",
+        "symbol": "OMNI",
+        "decimals": 18
+      },
+      {
         "name": "xCAD",
         "address": "0x921f99719eb6c01b4b8f0ba7973a7c24891e740a",
         "symbol": "xCAD",
