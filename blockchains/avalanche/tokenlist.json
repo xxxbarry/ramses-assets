@@ -65,6 +65,12 @@
         "decimals": 18
       },
       {
+        "name": "Red Kirby",
+        "address": "0x493Ab7f3b885a03f31A0C8F80f68CEA8EF6f417C",
+        "symbol": "KRBY",
+        "decimals": 18
+      },
+      {
         "name": "yearn.finance",
         "address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
         "symbol": "YFI.e",
