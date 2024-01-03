@@ -65,6 +65,12 @@
         "decimals": 18
       },
       {
+        "name": "Ennead PHAR",
+        "address": "0x9999E8986f6294E276b7365C962c2fa55cFB2726",
+        "symbol": "neadPhar",
+        "decimals": 18
+      },
+      {
         "name": "Frax Share",
         "address": "0x214DB107654fF987AD859F34125307783fC8e387",
         "symbol": "FXS",
