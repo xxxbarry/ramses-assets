@@ -35,6 +35,12 @@
         "decimals": 18
       },
       {
+        "name": "Escrowed Cleopatra Token",
+        "address": "0xAAAE58986b24e422740C8F22B3efB80BCbD68159",
+        "symbol": "xCLEO",
+        "decimals": 18
+      },
+      {
         "name": "WBTC",
         "address": "0x2f2a2543b76a4166549f7aab2e75bef0aefc5b0f",
         "symbol": "WBTC",
