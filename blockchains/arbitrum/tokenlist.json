@@ -312,6 +312,12 @@
         "decimals": 18
       },
       {
+        "name": "Any Inu",
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "symbol": "AI",
+        "decimals": 18
+      },
+      {
         "name": "Smolcoin",
         "address": "0x9E64D3b9e8eC387a9a58CED80b71Ed815f8D82B5",
         "symbol": "SMOL",
