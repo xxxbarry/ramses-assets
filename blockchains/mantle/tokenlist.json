@@ -47,6 +47,12 @@
         "decimals": 8
       },
       {
+        "name": "Any Inu",
+        "address": "0x2598c30330D5771AE9F983979209486aE26dE875",
+        "symbol": "AI",
+        "decimals": 18
+      },
+      {
         "name": "mETH",
         "address": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
         "symbol": "mETH",
