@@ -282,6 +282,12 @@
         "decimals": 18
       },
       {
+        "name": "ISSUAA Protocol Token",
+        "address": "0x6D30AB63FC4cDDF268EDD294a8d1b07bdB282976",
+        "symbol": "ISS",
+        "decimals": 18
+      },
+      {
         "name": "DEI",
         "address": "0xde1e704dae0b4051e80dabb26ab6ad6c12262da0",
         "symbol": "DEI",
