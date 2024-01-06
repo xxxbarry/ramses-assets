@@ -1,0 +1,7 @@
+{
+  "name": "USD Coin",
+  "symbol": "USDC",
+  "type": "ERC20",
+  "decimals": 6,
+  "id": "0x09Bc4E0D864854c6aFB6eB9A9cdF58aC190D0dF9"
+}
