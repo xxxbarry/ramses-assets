@@ -781,6 +781,12 @@
         "symbol": "STAR"
       },
       {
+        "address": "0xddbfbd5dc3ba0feb96cb513b689966b2176d4c09",
+        "decimals": 18,
+        "name": "SteakHut Finance",
+        "symbol": "STEAK"
+      },
+      {
         "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
         "decimals": 6,
         "name": "Axelar Wrapped USDC",

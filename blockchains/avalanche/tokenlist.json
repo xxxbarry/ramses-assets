@@ -161,6 +161,12 @@
         "decimals": 18
       },
       {
+        "address": "0xb279f8dd152b99ec1d84a489d32c35bc0c7f5674",
+        "decimals": 18,
+        "name": "SteakHut Finance",
+        "symbol": "STEAK"
+      },
+      {
         "name": "Kimbo",
         "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
         "symbol": "KIMBO",
