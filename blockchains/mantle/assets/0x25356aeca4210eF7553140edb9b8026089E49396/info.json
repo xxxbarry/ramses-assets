@@ -1,0 +1,7 @@
+{
+  "name": "Lendle Protocol Token",
+  "symbol": "LEND",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x25356aeca4210eF7553140edb9b8026089E49396"
+}
