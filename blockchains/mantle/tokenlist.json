@@ -75,6 +75,30 @@
         "symbol": "LEND",
         "address": "0x25356aeca4210eF7553140edb9b8026089E49396",
         "decimals": 18
+      },
+      {
+        "name": "Frax Ether",
+        "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+        "symbol": "frxETH",
+        "decimals": 18
+      },
+      {
+        "name": "Staked Frax Ether",
+        "address": "0x4f74ca4a686203a5D4eBF6E8868c5eBC450bf283",
+        "symbol": "sfrxETH",
+        "decimals": 18
+      },
+      {
+        "name": "Staked Frax",
+        "address": "0xf3602C5A7f625181659445C8dDDde73dA15c22e3",
+        "symbol": "sFRAX",
+        "decimals": 18
+      },
+      {
+        "name": "Axelar Wrapped Frax",
+        "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
+        "symbol": "axlFRAX",
+        "decimals": 18
       }
 
     

@@ -1,0 +1,7 @@
+{
+  "name": "Axelar Wrapped Frax",
+  "symbol": "axlFRAX",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040"
+}
