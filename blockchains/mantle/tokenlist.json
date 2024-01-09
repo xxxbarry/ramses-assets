@@ -89,12 +89,6 @@
         "decimals": 18
       },
       {
-        "name": "Staked Frax",
-        "address": "0xf3602C5A7f625181659445C8dDDde73dA15c22e3",
-        "symbol": "sFRAX",
-        "decimals": 18
-      },
-      {
         "name": "Axelar Wrapped Frax",
         "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
         "symbol": "axlFRAX",
