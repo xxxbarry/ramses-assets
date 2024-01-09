@@ -23,6 +23,12 @@
         "decimals": 6
       },
       {
+        "name": "Staked Avax",
+        "address": "0x2b2C81e08f1Af8835a78Bb2A90AE924ACE0eA4bE",
+        "symbol": "sAVAX",
+        "decimals": 18
+      },
+      {
         "name": "Tether USD",
         "address": "0x9702230A8Ea53601f5cD2dc00fDBc13d4dF4A8c7",
         "symbol": "USDT",
