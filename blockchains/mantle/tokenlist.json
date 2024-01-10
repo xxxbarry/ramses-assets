@@ -35,6 +35,12 @@
         "decimals": 18
       },
       {
+        "name": "Liquity USD",
+        "address": "0xf93a85d53e4af0d62bdf3a83ccfc1ecf3eaf9f32",
+        "symbol": "LUSD",
+        "decimals": 18
+      },
+      {
         "name": "Escrowed Cleopatra Token",
         "address": "0xAAAE58986b24e422740C8F22B3efB80BCbD68159",
         "symbol": "xCLEO",
