@@ -258,6 +258,12 @@
         "decimals": 6
       },
       {
+        "name": "Alchemix ETH",
+        "address": "0x17573150d67d820542EFb24210371545a4868B03",
+        "symbol": "alETH",
+        "decimals": 18
+      },
+      {
         "name": "Insane Technology",
         "address": "0x18cB93A4f827840a25789659378e429c00D13590",
         "symbol": "IT",
