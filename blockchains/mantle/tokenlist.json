@@ -36,7 +36,7 @@
       },
       {
         "name": "Liquity USD",
-        "address": "0xf93a85d53e4af0d62bdf3a83ccfc1ecf3eaf9f32",
+        "address": "0xf93a85d53e4aF0D62bdf3A83CCFc1EcF3EAf9F32",
         "symbol": "LUSD",
         "decimals": 18
       },
@@ -98,6 +98,12 @@
         "name": "Axelar Wrapped Frax",
         "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
         "symbol": "axlFRAX",
+        "decimals": 18
+      },
+      {
+        "name": "MEF",
+        "address": "0x050A0789b3b5Ff6fE33E4A6727da9f4546E94804",
+        "symbol": "MEF",
         "decimals": 18
       }
 
