@@ -1,0 +1,7 @@
+{
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0x7d43AABC515C356145049227CeE54B608342c0ad"
+  }

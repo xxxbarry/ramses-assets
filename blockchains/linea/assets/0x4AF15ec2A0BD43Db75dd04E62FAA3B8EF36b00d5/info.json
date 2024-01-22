@@ -1,0 +1,7 @@
+{
+    "name": "Dai Stablecoin",
+    "symbol": "DAI",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5"
+  }
