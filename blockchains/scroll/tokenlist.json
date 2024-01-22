@@ -1,0 +1,94 @@
+{
+  "name": "NILE: Linea List",
+  "logoURI": "",
+  "timestamp": "2022-01-27T14:33:26.183301",
+  "tokens": [
+    [
+      {
+        "name": "NILE Token",
+        "address": "0xAAAac83751090C6ea42379626435f805DDF54DC8",
+        "symbol": "NILE",
+        "decimals": 18
+      },
+      {
+        "name": "Escrowed NILE Token",
+        "address": "0xAAAE58986b24e422740C8F22B3efB80BCbD68159",
+        "symbol": "xNILE",
+        "decimals": 18
+      },
+      {
+        "name": "USD Coin",
+        "address": "0x176211869cA2b568f2A7D4EE941E073a821EE1ff",
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      {
+        "name": "Wrapped Ether",
+        "address": "0xe5D7C2a44FfDDf6b295A15c148167daaAf5Cf34f",
+        "symbol": "WETH",
+        "decimals": 18
+      },
+      {
+        "name": "Tether USD",
+        "address": "0xA219439258ca9da29E9Cc4cE5596924745e12B93",
+        "symbol": "USDT",
+        "decimals": 6
+      },
+      {
+        "name": "Wrapped Bitcoin",
+        "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
+        "symbol": "WBTC",
+        "decimals": 8
+      },
+      {
+        "name": "Wrapped Staked Ether",
+        "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
+        "symbol": "wstETH",
+        "decimals": 18
+      },
+      {
+        "name": "Axelar Wrapped USDC",
+        "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+        "symbol": "axlUSDC",
+        "decimals": 6
+      },
+      {
+        "name": "Matic Token",
+        "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
+        "symbol": "MATIC",
+        "decimals": 18
+      },
+      {
+        "name": "Dai Stablecoin",
+        "address": "0x4AF15ec2A0BD43Db75dd04E62FAA3B8EF36b00d5",
+        "symbol": "DAI",
+        "decimals": 18
+      },
+      {
+        "name": "Binance USD",
+        "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+        "symbol": "BUSD",
+        "decimals": 18
+      },
+      {
+        "name": "Avalanche",
+        "address": "0x5471ea8f739dd37E9B81Be9c5c77754D8AA953E4",
+        "symbol": "AVAX",
+        "decimals": 18
+      },
+      {
+        "name": "Binance Coin",
+        "address": "0xf5C6825015280CdfD0b56903F9F8B5A2233476F5",
+        "symbol": "BNB",
+        "decimals": 18
+      }
+
+    
+    ] 
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

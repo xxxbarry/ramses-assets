@@ -1,0 +1,7 @@
+{
+    "name": "Wrapped Staked Ether",
+    "symbol": "wstETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F"
+  }
