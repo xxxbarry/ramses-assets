@@ -35,6 +35,12 @@
         "decimals": 6
       },
       {
+        "name": "LUBE",
+        "symbol": "LUBE",
+        "address": "0x1bE3735Dd0C0Eb229fB11094B6c277192349EBbf",
+        "decimals": 18
+      },
+      {
         "name": "Wrapped Bitcoin",
         "address": "0x3aAB2285ddcDdaD8edf438C1bAB47e1a9D05a9b4",
         "symbol": "WBTC",
@@ -56,6 +62,12 @@
         "name": "Matic Token",
         "address": "0x265B25e22bcd7f10a5bD6E6410F10537Cc7567e8",
         "symbol": "MATIC",
+        "decimals": 18
+      },
+      {
+        "name": "Mendi Token",
+        "address": "0x43E8809ea748EFf3204ee01F08872F063e44065f",
+        "symbol": "MENDI",
         "decimals": 18
       },
       {
