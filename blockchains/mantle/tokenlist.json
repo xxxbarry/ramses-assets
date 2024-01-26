@@ -105,6 +105,12 @@
         "address": "0x050A0789b3b5Ff6fE33E4A6727da9f4546E94804",
         "symbol": "MEF",
         "decimals": 18
+      },
+      {
+        "name": "Ennead CLEO",
+        "address": "0x999890b3A00EA4d60da39A65FA4B70bb0bdb61f7",
+        "symbol": "neadCleo",
+        "decimals": 18
       }
 
     
