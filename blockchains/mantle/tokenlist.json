@@ -101,6 +101,12 @@
         "decimals": 18
       },
       {
+        "name": "Layer Zero fMULTI",
+        "symbol": "lz-fMULTI",
+        "decimals": 18,
+        "address": "0x7e51aD847CDf8729Efc97CFa6E8aFA4D658Cb85b"
+      },
+      {
         "name": "Axelar Wrapped Frax",
         "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
         "symbol": "axlFRAX",
