@@ -47,6 +47,12 @@
         "decimals": 8
       },
       {
+        "name": "Liquity USD",
+        "address": "0x63bA74893621d3d12F13CEc1e86517eC3d329837",
+        "symbol": "LUSD",
+        "decimals": 18
+      },
+      {
         "name": "Wrapped Staked Ether",
         "address": "0xB5beDd42000b71FddE22D3eE8a79Bd49A568fC8F",
         "symbol": "wstETH",
