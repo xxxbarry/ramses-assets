@@ -510,6 +510,12 @@
         "symbol": "wstETH"
       },
       {
+        "address": "0x808507121B80c02388fAd14726482e061B8da827",
+        "decimals": 18,
+        "name": "Pendle",
+        "symbol": "PENDLE"
+      },
+      {
         "address": "0x1819E21698B777B69f903Ff5550361Cf12Ed1DEf",
         "decimals": 18,
         "name": "FEAR",
