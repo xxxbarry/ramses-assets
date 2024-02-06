@@ -492,6 +492,12 @@
         "symbol": "GMD"
       },
       {
+        "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
+        "decimals": 18,
+        "name": "KelpDao Restaked ETH",
+        "symbol": "rsETH"
+      },
+      {
         "address": "0xEC13336bbd50790a00CDc0fEddF11287eaF92529",
         "decimals": 18,
         "name": "gmUSD",
