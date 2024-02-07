@@ -65,6 +65,12 @@
         "decimals": 18
       },
       {
+        "name": "Aurelius USD",
+        "address": "0xD2B4C9B0d70e3Da1fBDD98f469bD02E77E12FC79",
+        "decimals": 18,
+        "symbol": "aUSD"
+      },
+      {
         "name": "Cleopatra",
         "address": "0xC1E0C8C30F251A07a894609616580ad2CEb547F2",
         "symbol": "CLEO",
