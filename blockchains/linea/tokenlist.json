@@ -99,6 +99,12 @@
         "address": "0xf5C6825015280CdfD0b56903F9F8B5A2233476F5",
         "symbol": "BNB",
         "decimals": 18
+      },
+      {
+        "name": "Gravita Debt Token",
+        "address": "0x894134a25a5faC1c2C26F1d8fBf05111a3CB9487",
+        "symbol": "GRAI",
+        "decimals": 18
       }
 
     
