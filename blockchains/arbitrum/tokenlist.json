@@ -504,6 +504,12 @@
         "symbol": "gmUSD"
       },
       {
+        "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
+        "decimals": 18,
+        "name": "Wrapped eETH",
+        "symbol": "weETH"
+      },
+      {
         "address": "0xAD435674417520aeeED6b504bBe654d4f556182F",
         "decimals": 18,
         "name": "jEUR",
