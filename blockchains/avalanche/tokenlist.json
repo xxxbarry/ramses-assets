@@ -119,6 +119,12 @@
         "decimals": 18
       },
       {
+        "name": "STEAK",
+        "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+        "decimals": 18,
+        "symbol": "STEAK"
+      },
+      {
         "name": "Colony Token",
         "address": "0xec3492a2508DDf4FDc0cD76F31f340b30d1793e6",
         "symbol": "CLY",
