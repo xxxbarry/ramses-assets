@@ -107,6 +107,12 @@
         "decimals": 8
       },
       {
+        "name": "SHRAPToken",
+        "address": "0xd402298a793948698b9a63311404FBBEe944eAfD",
+        "decimals": 18,
+        "symbol": "SHRAP"
+      },
+      {
         "name": "BENQI",
         "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
         "symbol": "QI",
