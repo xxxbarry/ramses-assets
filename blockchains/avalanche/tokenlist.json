@@ -107,6 +107,12 @@
         "decimals": 8
       },
       {
+        "name": "KINGSHIT",
+        "address": "0x0Cd741F007b417088ca7F4392E8D6B49B4F7A975",
+        "symbol": "KINGSHIT",
+        "decimals": 18
+      },
+      {
         "name": "SHRAPToken",
         "address": "0xd402298a793948698b9a63311404FBBEe944eAfD",
         "decimals": 18,
