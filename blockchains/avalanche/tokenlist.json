@@ -95,6 +95,18 @@
         "decimals": 18
       },
       {
+        "name": "Crocs",
+        "symbol": "CROC",
+        "address": "0x0F9B2655F87b4CCAB4197BeF9fd64AFeC4871F55",
+        "decimals": 18
+      },
+      {
+        "name": "AVAX HAS NO CHILL",
+        "symbol": "NOCHILL",
+        "address": "0xAcFb898Cff266E53278cC0124fC2C7C94C8cB9a5",
+        "decimals": 18
+      },
+      {
         "name": "yearn.finance",
         "address": "0x9eAaC1B23d935365bD7b542Fe22cEEe2922f52dc",
         "symbol": "YFI.e",
