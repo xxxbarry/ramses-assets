@@ -35,6 +35,12 @@
         "decimals": 18
       },
       {
+        "name": "FLYWHEEL",
+        "address": "0x018E32f5a78329A28232e99A158879B3bB512cb1",
+        "symbol": "FLYWHEEL",
+        "decimals": 18
+      },
+      {
         "name": "RAMSES",
         "address": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
         "symbol": "RAM",
