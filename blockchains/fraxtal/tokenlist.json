@@ -1,0 +1,62 @@
+{
+  "name": "RA: Fraxtal Assets List",
+  "logoURI": "",
+  "timestamp": "2022-01-27T14:33:26.183301",
+  "tokens": [
+    [
+      {
+        "name": "Staked Frax Ether",
+        "address": "0xfc00000000000000000000000000000000000005",
+        "symbol": "sfrxETH",
+        "decimals": 18
+      },
+      {
+        "name": "Wrapped Frax Ether",
+        "address": "0xfc00000000000000000000000000000000000006",
+        "symbol": "wfrxETH",
+        "decimals": 18
+      },
+      {
+        "name": "Frax Share",
+        "address": "0xfc00000000000000000000000000000000000002",
+        "symbol": "FXS",
+        "decimals": 18
+      },
+      {
+        "name": "FRAX",
+        "address": "0xfc00000000000000000000000000000000000001",
+        "symbol": "FRAX",
+        "decimals": 18
+      },
+      {
+        "name": "Staked FRAX",
+        "address": "0xfc00000000000000000000000000000000000008",
+        "symbol": "sFRAX",
+        "decimals": 18
+      },
+      {
+        "name": "Frax Bitcoin",
+        "address": "0xfc00000000000000000000000000000000000007",
+        "symbol": "frxBTC",
+        "decimals": 18
+      },
+      {
+        "name": "Frax Price Index",
+        "address": "0xfc00000000000000000000000000000000000003",
+        "symbol": "FPI",
+        "decimals": 18
+      },
+      {
+        "name": "FPI Share",
+        "address": "0xfc00000000000000000000000000000000000004",
+        "symbol": "FPIS",
+        "decimals": 18
+      }   
+    ] 
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}

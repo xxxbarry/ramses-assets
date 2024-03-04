@@ -1,0 +1,7 @@
+{
+    "name": "Wrapped Frax Ether",
+    "symbol": "wfrxETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0xfc00000000000000000000000000000000000006"
+  }
