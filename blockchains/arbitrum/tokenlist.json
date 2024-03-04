@@ -822,6 +822,12 @@
         "symbol": "alUSD"
       },
       {
+        "address": "0xB962150760F9A3bB00e3E9Cf48297EE20AdA4A33",
+        "decimals": 18,
+        "name": "ZoomerCoin",
+        "symbol": "ZOOMER"
+      },
+      {
         "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
         "decimals": 18,
         "name": "STAR",
