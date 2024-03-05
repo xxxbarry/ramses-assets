@@ -834,6 +834,12 @@
         "symbol": "STAR"
       },
       {
+        "address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
+        "decimals": 18,
+        "name": "Pepe",
+        "symbol": "PEPE"
+      },
+      {
         "address": "0xddbfbd5dc3ba0feb96cb513b689966b2176d4c09",
         "decimals": 18,
         "name": "SteakHut Finance",
