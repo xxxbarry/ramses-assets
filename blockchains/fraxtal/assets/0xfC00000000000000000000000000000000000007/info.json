@@ -1,0 +1,7 @@
+{
+    "name": "Frax Bitcoin",
+    "symbol": "frxBTC",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0xfC00000000000000000000000000000000000007"
+  }

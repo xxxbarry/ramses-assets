@@ -1,0 +1,7 @@
+{
+    "name": "Staked Frax Ether",
+    "symbol": "sfrxETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0xFC00000000000000000000000000000000000005"
+  }
