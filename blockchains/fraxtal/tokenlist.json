@@ -51,6 +51,12 @@
         "address": "0xfc00000000000000000000000000000000000004",
         "symbol": "FPIS",
         "decimals": 18
+      },
+      {
+        "name": "Frax Doge",
+        "address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
+        "symbol": "FXD",
+        "decimals": 18
       }   
     ] 
   ],
