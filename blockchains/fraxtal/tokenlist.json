@@ -6,13 +6,13 @@
     [
       {
         "name": "Staked Frax Ether",
-        "address": "0xFc00000000000000000000000000000000000005",
+        "address": "0xFC00000000000000000000000000000000000005",
         "symbol": "sfrxETH",
         "decimals": 18
       },
       {
         "name": "Wrapped Frax Ether",
-        "address": "0xFc00000000000000000000000000000000000006",
+        "address": "0xFC00000000000000000000000000000000000006",
         "symbol": "wfrxETH",
         "decimals": 18
       },
@@ -30,13 +30,13 @@
       },
       {
         "name": "Staked FRAX",
-        "address": "0xFc00000000000000000000000000000000000008",
+        "address": "0xfc00000000000000000000000000000000000008",
         "symbol": "sFRAX",
         "decimals": 18
       },
       {
         "name": "Frax Bitcoin",
-        "address": "0xFc00000000000000000000000000000000000007",
+        "address": "0xfC00000000000000000000000000000000000007",
         "symbol": "frxBTC",
         "decimals": 18
       },
@@ -48,7 +48,7 @@
       },
       {
         "name": "FPI Share",
-        "address": "0xFc00000000000000000000000000000000000004",
+        "address": "0xfc00000000000000000000000000000000000004",
         "symbol": "FPIS",
         "decimals": 18
       },
