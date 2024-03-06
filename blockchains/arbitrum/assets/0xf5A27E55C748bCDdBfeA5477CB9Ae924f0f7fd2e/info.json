@@ -1,0 +1,7 @@
+{
+  "name": "Standard Token",
+  "symbol": "TST",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e"
+}
