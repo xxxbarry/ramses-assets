@@ -57,7 +57,13 @@
         "address": "0xdeBb8a79B025B2Fc2CA506F0c69497B60B91235C",
         "symbol": "FXD",
         "decimals": 18
-      }   
+      },
+      {
+        "name": "Real World Abs",
+        "address": "0xc84c0f36e42D0100c6FF5e1D04e2978f0A5B63Cf",
+        "decimals": 18,
+        "symbol": "RWA"
+      }
     ] 
   ],
   "version": {
