@@ -63,6 +63,12 @@
         "address": "0xc84c0f36e42D0100c6FF5e1D04e2978f0A5B63Cf",
         "decimals": 18,
         "symbol": "RWA"
+      },
+      {
+        "name": "SuperAlgorithmicMoney",
+        "address": "0x4BfBA51AE91420302FB49680DA38CA068E0ee6eA",
+        "decimals": 18,
+        "symbol": "SAM"
       }
     ] 
   ],
