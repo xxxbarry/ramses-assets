@@ -69,6 +69,12 @@
         "address": "0x4BfBA51AE91420302FB49680DA38CA068E0ee6eA",
         "decimals": 18,
         "symbol": "SAM"
+      },
+      {
+        "name": "Eve The Cat",
+        "address": "0xdd69B76de728257a1506FA986aB80F324005DD85",
+        "decimals": 9,
+        "symbol": "EVE"
       }
     ] 
   ],
