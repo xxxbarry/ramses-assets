@@ -75,6 +75,12 @@
         "address": "0xdd69B76de728257a1506FA986aB80F324005DD85",
         "decimals": 9,
         "symbol": "EVE"
+      },
+      {
+        "name": "CR100",
+        "address": "0x706432518887236Cb34Cb476C28fb20C68578304",
+        "decimals": 18,
+        "symbol": "CR100"
       }
     ] 
   ],
