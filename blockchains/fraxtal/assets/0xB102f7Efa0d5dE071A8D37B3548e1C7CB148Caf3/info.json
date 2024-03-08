@@ -1,0 +1,7 @@
+{
+    "name": "Curve.Fi USD Stablecoin",
+    "symbol": "crvUSD",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0xB102f7Efa0d5dE071A8D37B3548e1C7CB148Caf3"
+  }

@@ -35,6 +35,24 @@
         "decimals": 6
       },
       {
+        "name": "USD Coin",
+        "address": "0xDcc0F2D8F90FDe85b10aC1c8Ab57dc0AE946A543",
+        "symbol": "USDC",
+        "decimals": 6
+      },
+      {
+        "name": "Tether USD",
+        "address": "0x4d15ea9c2573addaed814e48c148b5262694646a",
+        "symbol": "USDT",
+        "decimals": 6
+      },
+      {
+        "name": "Curve.Fi USD Stablecoin",
+        "address": "0xB102f7Efa0d5dE071A8D37B3548e1C7CB148Caf3",
+        "symbol": "crvUSD",
+        "decimals": 18
+      },
+      {
         "name": "Staked FRAX",
         "address": "0xfc00000000000000000000000000000000000008",
         "symbol": "sFRAX",
