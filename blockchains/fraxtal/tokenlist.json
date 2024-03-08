@@ -29,6 +29,12 @@
         "decimals": 18
       },
       {
+        "name": "Axelar Wrapped USDC",
+        "address": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+        "symbol": "axlUSDC",
+        "decimals": 6
+      },
+      {
         "name": "Staked FRAX",
         "address": "0xfc00000000000000000000000000000000000008",
         "symbol": "sFRAX",
