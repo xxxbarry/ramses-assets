@@ -59,12 +59,6 @@
         "decimals": 18
       },
       {
-        "name": "PLS",
-        "address": "0x51318b7d00db7acc4026c88c3952b66278b6a67f",
-        "symbol": "PLS",
-        "decimals": 18
-      },
-      {
         "name": "MIM",
         "address": "0xfea7a6a0b346362bf88a9e4a88416b77a57d6c2a",
         "symbol": "MIM",
@@ -74,12 +68,6 @@
         "name": "MAGIC",
         "address": "0x539bde0d7dbd336b79148aa742883198bbf60342",
         "symbol": "MAGIC",
-        "decimals": 18
-      },
-      {
-        "name": "VSTA",
-        "address": "0xa684cd057951541187f288294a1e1c2646aa2d24",
-        "symbol": "VSTA",
         "decimals": 18
       },
       {
@@ -102,12 +90,6 @@
         "decimals": 18
       },
       {
-        "name": "Plutus RDNT",
-        "address": "0x1605bbDAB3b38d10fA23A7Ed0d0e8F4FEa5bFF59",
-        "symbol": "plsRDNT",
-        "decimals": 18
-      },
-      {
         "name": "Staked ERN Vault",
         "address": "0xf7A0dd3317535eC4f4d29ADF9d620B3d8D5D5069",
         "symbol": "stERN",
@@ -123,12 +105,6 @@
         "name": "OATHv2",
         "address": "0x00e1724885473B63bCE08a9f0a52F35b0979e35A",
         "symbol": "OATHv2",
-        "decimals": 18
-      },
-      {
-        "name": "BIFI",
-        "address": "0x99C409E5f62E4bd2AC142f17caFb6810B8F0BAAE",
-        "symbol": "BIFI",
         "decimals": 18
       },
       {
@@ -165,12 +141,6 @@
         "name": "Staked agEUR",
         "address": "0x004626A008B1aCdC4c74ab51644093b155e59A23",
         "symbol": "stEUR",
-        "decimals": 18
-      },
-      {
-        "name": "Size",
-        "address": "0x939727d85D99d0aC339bF1B76DfE30Ca27C19067",
-        "symbol": "SIZE",
         "decimals": 18
       },
       {
@@ -306,12 +276,6 @@
         "decimals": 18
       },
       {
-        "name": "DEI",
-        "address": "0xde1e704dae0b4051e80dabb26ab6ad6c12262da0",
-        "symbol": "DEI",
-        "decimals": 18
-      },
-      {
         "name": "Wrapped SOL",
         "address": "0x2bcC6D6CdBbDC0a4071e48bb3B969b06B3330c07",
         "symbol": "SOL",
@@ -366,12 +330,6 @@
         "decimals": 18
       },
       {
-        "name": "xCAD",
-        "address": "0x921f99719eb6c01b4b8f0ba7973a7c24891e740a",
-        "symbol": "xCAD",
-        "decimals": 18
-      },
-      {
         "name": "GNS",
         "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
         "symbol": "GNS",
@@ -384,33 +342,9 @@
         "decimals": 18
       },
       {
-        "name": "USD+",
-        "address": "0xe80772Eaf6e2E18B651F160Bc9158b2A5caFCA65",
-        "symbol": "USD+",
-        "decimals": 6
-      },
-      {
-        "name": "HOP",
-        "address": "0xc5102fe9359fd9a28f877a67e36b0f050d81a3cc",
-        "symbol": "HOP",
-        "decimals": 18
-      },
-      {
         "name": "JONES",
         "address": "0x10393c20975cf177a3513071bc110f7962cd67da",
         "symbol": "JONES",
-        "decimals": 18
-      },
-      {
-        "name": "SPA",
-        "address": "0x5575552988a3a80504bbaeb1311674fcfd40ad4b",
-        "symbol": "SPA",
-        "decimals": 18
-      },
-      {
-        "name": "USDs",
-        "address": "0xd74f5255d557944cf7dd0e45ff521520002d5748",
-        "symbol": "USDs",
         "decimals": 18
       },
       {
@@ -484,12 +418,6 @@
         "decimals": 18,
         "name": "LDO",
         "symbol": "LDO"
-      },
-      {
-        "address": "0xeb8E93A0c7504Bffd8A8fFa56CD754c63aAeBFe8",
-        "decimals": 18,
-        "name": "DAI+",
-        "symbol": "DAI+"
       },
       {
         "address": "0x4945970efeec98d393b4b979b9be265a3ae28a8b",
@@ -700,54 +628,12 @@
         "name": "Olympus",
         "symbol": "OHM"
       },
-      {
-        "address":"0x0Ae38f7E10A43B5b2fB064B42a2f4514cbA909ef",
-        "decimals": 18,
-        "name": "unshETH Ether",
-        "symbol":"unshETH"
-      },
-      {
-        "address": "0x46F74778b265Df3a15EC9695CCd2fD3869ca848c",
-        "decimals": 18,
-        "name": "Multichain Ankr",
-        "symbol": "mANKR"
-      },
-      {
-        "address": "0x8EC1877698ACF262Fe8Ad8a295ad94D6ea258988",
-        "decimals": 18,
-        "name": "Davos USD",
-        "symbol": "DUSD"
-      },
-      {
-        "address": "0xAeAeeD23478c3a4b798e4ed40D8B7F41366Ae861",
-        "decimals": 18,
-        "name": "Ankr Network",
-        "symbol": "ANKR"
-      },
 
-      {
-        "address": "0xe05A08226c49b636ACf99c40Da8DC6aF83CE5bB3",
-        "decimals": 18,
-        "name": "Ankr Staked ETH",
-        "symbol": "ankrETH"
-      },
-      {
-        "address":"0x05d35769a222AfFd6185e20F3f3676Abde56C25F",
-        "decimals": 18,
-        "name": "Unlimited Network Token",
-        "symbol": "UWU"
-      },
       {
         "address":"0xAf5db6E1CC585ca312E8c8F7c499033590cf5C98",
         "decimals":18,
         "name": "Arken Token",
         "symbol": "ARKEN"
-      },
-      {
-        "address": "0xe5b8C3381C0A2544883CfF9dDaf1e48D9dea9E49",
-        "decimals": 18,
-        "name": "Bathtub Token",
-        "symbol": "BATH"
       },
       {
         "address":"0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
@@ -786,12 +672,6 @@
         "symbol": "SHRP"
       },
       {
-        "address": "0x63D4dc5376cfB48a885A165cd97BA208b87881c7",
-        "decimals": 18,
-        "name": "PSY Stablecoin: sLSD",
-        "symbol": "sLSD"
-      },
-      {
         "address": "0x816E21c33fa5F8440EBcDF6e01D39314541BEA72",
         "decimals": 18,
         "name": "LQDR V2",
@@ -804,18 +684,6 @@
         "symbol": "TAROT"
       },
       {
-        "address": "0x7f90122BF0700F9E7e1F688fe926940E8839F353",
-        "decimals": 18,
-        "name": "2CRV",
-        "symbol": "2CRV"
-      },
-      {
-        "address": "0x3dFe1324A0ee9d86337d06aEB829dEb4528DB9CA",
-        "decimals": 18,
-        "name": "crvEURSUSD",
-        "symbol": "crvEURSUSD"
-      },
-      {
         "address": "0xCB8FA9a76b8e203D8C3797bF438d8FB81Ea3326A",
         "decimals": 18,
         "name": "Alchemix USD",
@@ -826,12 +694,6 @@
         "decimals": 18,
         "name": "ZoomerCoin",
         "symbol": "ZOOMER"
-      },
-      {
-        "address": "0xC19669A405067927865B40Ea045a2baabbbe57f5",
-        "decimals": 18,
-        "name": "STAR",
-        "symbol": "STAR"
       },
       {
         "address": "0x25d887Ce7a35172C62FeBFD67a1856F20FaEbB00",
