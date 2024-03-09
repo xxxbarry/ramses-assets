@@ -372,12 +372,6 @@
         "symbol": "LINK"
       },
       {
-        "address": "0x65c936f008bc34fe819bce9fa5afd9dc2d49977f",
-        "decimals": 18,
-        "name": "Y2K",
-        "symbol": "Y2K"
-      },
-      {
         "address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
         "decimals": 18,
         "name": "RPL",
@@ -388,30 +382,6 @@
         "decimals": 18,
         "name": "VELA",
         "symbol": "VELA"
-      },
-      {
-        "address": "0x7f465507f058e17ad21623927a120ac05ca32741",
-        "decimals": 18,
-        "name": "ARC",
-        "symbol": "ARC"
-      },
-      {
-        "address": "0x1a5b0aaf478bf1fda7b934c76e7692d722982a6d",
-        "decimals": 18,
-        "name": "BFR",
-        "symbol": "BFR"
-      },
-      {
-        "address": "0xb261104a83887ae92392fb5ce5899fcfe5481456",
-        "decimals": 18,
-        "name": "NFTE",
-        "symbol": "NFTE"
-      },
-      {
-        "address": "0x3e6648c5a70a150a88bce65f4ad4d506fe15d2af",
-        "decimals": 18,
-        "name": "SPELL",
-        "symbol": "SPELL"
       },
       {
         "address": "0x13ad51ed4f1b7e9dc168d8a00cb3f4ddd85efa60",
@@ -467,12 +437,6 @@
         "symbol": "PENDLE"
       },
       {
-        "address": "0x1819E21698B777B69f903Ff5550361Cf12Ed1DEf",
-        "decimals": 18,
-        "name": "FEAR",
-        "symbol": "FEAR"
-      },
-      {
         "address": "0x954ac1c73e16c77198e83C088aDe88f6223F3d44",
         "decimals": 18,
         "name": "LEVI",
@@ -497,40 +461,10 @@
         "symbol": "ELR"
       },
       {
-        "address": "0xbb85d38faa5064fab8bf3e0a79583a2670f03dbc",
-        "decimals": 18,
-        "name": "Fantom Starter",
-        "symbol": "FS"
-      },
-      {
         "address": "0x95ab45875cffdba1e5f451b950bc2e42c0053f39",
         "decimals": 18,
         "name": "Staked Frax Ether",
         "symbol": "sfrxETH"
-      },
-      {
-        "address": "0xd42785d323e608b9e99fa542bd8b1000d4c2df37",
-        "decimals": 18,
-        "name": "Fantom",
-        "symbol": "FTM"
-      },
-      {
-        "address": "0xb9c8f0d3254007ee4b98970b94544e473cd610ec",
-        "decimals": 18,
-        "name": "QiDAO",
-        "symbol": "Qi"
-      },
-      {
-        "address": "0x3d58E75c9206F9a299be9279AF30c17383e077A4",
-        "decimals": 18,
-        "name": "ETS Epsilon",
-        "symbol": "ETS Epsilon"
-      },
-      {
-        "address": "0xBF05279F9Bf1CE69bBFEd670813b7e431142Afa4",
-        "decimals": 18,
-        "name": "OneRing",
-        "symbol": "RING"
       },
       {
         "address": "0x40301951Af3f80b8C1744ca77E55111dd3c1dba1",
@@ -551,22 +485,10 @@
         "symbol": "cbETH"
       },
       {
-        "address": "0xDDc0385169797937066bBd8EF409b5B3c0dFEB52",
-        "decimals": 9,
-        "name": "Wrapped USDR",
-        "symbol": "wUSDR"
-      },
-      {
         "address": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7",
         "decimals": 18,
         "name": "agEUR",
         "symbol": "agEUR"
-      },
-      {
-        "address": "0x13aabc0a9a5d6865da8fd0296080e172cf8bb958",
-        "decimals": 18,
-        "name": "Firebird Aggregator",
-        "symbol": "FBA"
       },
       {
         "address": "0xcF985abA4647a432E60efcEeB8054BBd64244305",
@@ -581,34 +503,10 @@
         "symbol": "GND"
       },
       {
-        "address":"0x40EA7f6D6964413D4a26A0a268542DAE9F55768E",
-        "decimals": 18,
-        "name": "xGND",
-        "symbol": "xGND"
-      },
-      {
-        "address": "0xDba35afc5f4d5AF4933C29a157Dab3975F3eee9B",
-        "decimals": 9,
-        "name": "Pigs Can Fly",
-        "symbol": "PORK"
-      },
-      {
         "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
         "decimals": 6,
         "name": "AIDOGE",
         "symbol": "AIDOGE"
-      },
-      {
-        "address": "0x7C8a1A80FDd00C9Cccd6EbD573E9EcB49BFa2a59",
-        "decimals": 18,
-        "name": "AICODE",
-        "symbol": "AICODE"
-      },
-      {
-        "address": "0xb3221e033Cf491a0052AdD79f60e2a3FA1f8c0c8",
-        "decimals": 9,
-        "name": "xPigsCanFly",
-        "symbol": "xPORK"
       },
       {
         "address": "0x3DB4B7DA67dd5aF61Cb9b3C70501B1BdB24b2C22",
@@ -617,18 +515,11 @@
         "symbol": "gmdUSDC"
       },
       {
-        "address": "0x8A72B245D60F2dABAd44041D050d08c35BA60f43",
-        "decimals": 18,
-        "name": "XCAD Network PLAY",
-        "symbol": "PLAY"
-      },
-      {
         "address": "0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028",
         "decimals": 9,
         "name": "Olympus",
         "symbol": "OHM"
       },
-
       {
         "address":"0xAf5db6E1CC585ca312E8c8F7c499033590cf5C98",
         "decimals":18,
@@ -640,12 +531,6 @@
         "decimals": 18,
         "name": "Governance OHM",
         "symbol": "gOHM"
-      },
-      {
-        "address": "0x1622bF67e6e5747b81866fE0b85178a93C7F86e3",
-        "decimals": 9,
-        "name": "Umami",
-        "symbol": "UMAMI"
       },
       {
         "address": "0xa334884bF6b0A066d553D19e507315E839409e62",
