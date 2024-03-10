@@ -59,6 +59,12 @@
         "decimals": 8
       },
       {
+        "address": "0x13A7DeDb7169a17bE92B0E3C7C2315B46f4772B3",
+        "decimals": 18,
+        "name": "Boop",
+        "symbol": "Boop"
+      },
+      {
         "name": "MAI",
         "address": "0x3f56e0c36d275367b8c502090edf38289b3dea0d",
         "symbol": "MAI",
