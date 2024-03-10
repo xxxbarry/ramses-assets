@@ -59,6 +59,12 @@
         "decimals": 18
       },
       {
+        "name": "Puff",
+        "address": "0x26a6b0dcdCfb981362aFA56D581e4A7dBA3Be140",
+        "decimals": 18,
+        "symbol": "PUFF"
+      },
+      {
         "name": "mETH",
         "address": "0xcDA86A272531e8640cD7F1a92c01839911B90bb0",
         "symbol": "mETH",
