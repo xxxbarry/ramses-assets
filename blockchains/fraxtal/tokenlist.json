@@ -105,6 +105,12 @@
         "address": "0x706432518887236Cb34Cb476C28fb20C68578304",
         "decimals": 18,
         "symbol": "CR100"
+      },
+      {
+        "name": "Axelar Wrapped frxETH",
+        "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+        "decimals": 18,
+        "symbol": "axlfrxETH"
       }
     ] 
   ],
