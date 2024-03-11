@@ -141,6 +141,12 @@
         "address": "0x999890b3A00EA4d60da39A65FA4B70bb0bdb61f7",
         "symbol": "neadCleo",
         "decimals": 18
+      },
+      {
+        "name": "Muito Token",
+        "address": "0x029d924928888697d3F3d169018d9d98d9f0d6B4",
+        "decimals": 18,
+        "symbol": "MUTO"
       }
     
     ]
