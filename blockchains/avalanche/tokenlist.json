@@ -131,6 +131,12 @@
         "decimals": 18
       },
       {
+        "name": "MeowCat",
+        "address": "0x8aD25B0083C9879942A64f00F20a70D3278f6187",
+        "decimals": 18,
+        "symbol": "MEOW"
+      },
+      {
         "name": "SHRAPToken",
         "address": "0xd402298a793948698b9a63311404FBBEe944eAfD",
         "decimals": 18,
