@@ -137,6 +137,12 @@
         "symbol": "MEOW"
       },
       {
+        "name": "WoofDog",
+        "address": "0x49dF7cE3270884A70C27277bd4B2197834E68e7A",
+        "decimals": 18,
+        "symbol": "WOOF"
+      },
+      {
         "name": "SHRAPToken",
         "address": "0xd402298a793948698b9a63311404FBBEe944eAfD",
         "decimals": 18,
