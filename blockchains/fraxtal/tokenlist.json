@@ -47,6 +47,12 @@
         "decimals": 6
       },
       {
+        "address": "0xCC15F0F1e81E4A90CC2fAA918842E19F2ea2EE03",
+        "decimals": 18,
+        "name": "Krypto Fraxtal Chicken",
+        "symbol": "KFC"
+      },
+      {
         "name": "Curve.Fi USD Stablecoin",
         "address": "0xB102f7Efa0d5dE071A8D37B3548e1C7CB148Caf3",
         "symbol": "crvUSD",
