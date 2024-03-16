@@ -117,6 +117,12 @@
         "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
         "decimals": 18,
         "symbol": "axlfrxETH"
+      },
+      {
+        "name": "flox.lol",
+        "address": "0xf330cF089966bc941E1ec7B5C53968339Cee5d74",
+        "decimals": 18,
+        "symbol": "flox.lol"
       }
     ] 
   ],
