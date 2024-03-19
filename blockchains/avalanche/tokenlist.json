@@ -149,6 +149,12 @@
         "symbol": "SHRAP"
       },
       {
+        "address": "0x89A8633bcaD3af0951acC5137811ea21a17C37DC",
+        "decimals": 18,
+        "name": "LAMA",
+        "symbol": "LAMA"
+      },
+      {
         "name": "BENQI",
         "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
         "symbol": "QI",
