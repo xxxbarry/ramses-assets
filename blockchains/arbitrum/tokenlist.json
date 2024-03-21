@@ -77,6 +77,12 @@
         "symbol": "TBANK"
       },
       {
+        "address": "0xa14a26bb46e236da394da6B09a5b4CF737ce707b",
+        "decimals": 18,
+        "name": "Wrapped TAO",
+        "symbol": "wTAO"
+      },
+      {
         "name": "RAMSES",
         "address": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
         "symbol": "RAM",
