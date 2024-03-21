@@ -1,0 +1,7 @@
+{
+  "name": "taoUSD",
+  "symbol": "taoUSD",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x966570A84709D693463CDD69dCadb0121b2C9d26"
+}
