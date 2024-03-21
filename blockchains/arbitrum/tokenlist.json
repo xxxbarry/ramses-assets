@@ -59,6 +59,12 @@
         "symbol": "FTM"
       },
       {
+        "address": "0x17A8541B82BF67e10B0874284b4Ae66858cb1fd5",
+        "decimals": 18,
+        "name": "Possum",
+        "symbol": "PSM"
+      },
+      {
         "name": "RAMSES",
         "address": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
         "symbol": "RAM",
