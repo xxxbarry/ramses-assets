@@ -70,7 +70,12 @@
         "name": "taoUSD",
         "symbol":"taoUSD"
       },
-
+      {
+        "address": "0x05cBeF357CB14F9861C01F90AC7d5C90CE0ef05e",
+        "decimals": 18,
+        "name": "TaoBANK",
+        "symbol": "TBANK"
+      },
       {
         "name": "RAMSES",
         "address": "0xaaa6c1e32c55a7bfa8066a6fae9b42650f262418",
