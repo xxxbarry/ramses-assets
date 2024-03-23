@@ -77,6 +77,12 @@
         "symbol": "TBANK"
       },
       {
+        "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
+        "decimals": 18,
+        "name": "Renzo Restaked ETH",
+        "symbol": "ezETH"
+      },
+      {
         "address": "0xa14a26bb46e236da394da6B09a5b4CF737ce707b",
         "decimals": 18,
         "name": "Wrapped TAO",
