@@ -123,6 +123,12 @@
         "address": "0xf330cF089966bc941E1ec7B5C53968339Cee5d74",
         "decimals": 18,
         "symbol": "flox.lol"
+      },
+      {
+        "address": "0xfb1520DbDc9230ef5dD5e6fd3Bbb6647B570E190",
+        "decimals": 6,
+        "name": "PayPal USD",
+        "symbol": "PYUSD"
       }
     ] 
   ],

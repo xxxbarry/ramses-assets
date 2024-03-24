@@ -1,0 +1,7 @@
+{
+    "name": "PayPal USD",
+    "symbol": "PYUSD",
+    "type": "ERC20",
+    "decimals": 6,
+    "id": "0xfb1520DbDc9230ef5dD5e6fd3Bbb6647B570E190"
+  }
