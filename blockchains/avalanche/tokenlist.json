@@ -161,6 +161,12 @@
         "symbol": "CATWIF"
       },
       {
+        "address": "0x59821011487236adE7F9823F028fc6D5F3758877",
+        "decimals": 9,
+        "name": "Chimera",
+        "symbol": "CULT"
+      },
+      {
         "name": "BENQI",
         "address": "0x8729438EB15e2C8B576fCc6AeCdA6A148776C0F5",
         "symbol": "QI",
