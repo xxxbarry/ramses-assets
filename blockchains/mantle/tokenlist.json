@@ -147,6 +147,12 @@
         "address": "0x029d924928888697d3F3d169018d9d98d9f0d6B4",
         "decimals": 18,
         "symbol": "MUTO"
+      },
+      {
+        "address": "0xa334884bF6b0A066d553D19e507315E839409e62",
+        "decimals": 18,
+        "name": "Ethos Reserve Note",
+        "symbol": "ERN"
       }
     
     ]
