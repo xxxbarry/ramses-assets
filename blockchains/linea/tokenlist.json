@@ -111,6 +111,12 @@
         "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
         "decimals": 18,
         "symbol": "ezETH"
+      },
+      {
+        "address": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
+        "decimals": 18,
+        "name": "Mai Stablecoin",
+        "symbol": "MAI"
       }
     ] 
   ],
