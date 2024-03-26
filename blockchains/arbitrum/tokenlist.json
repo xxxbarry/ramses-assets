@@ -65,6 +65,12 @@
         "symbol": "PSM"
       },
       {
+        "address": "0x5d3a1Ff2b6BAb83b63cd9AD0787074081a52ef34",
+        "decimals": 18,
+        "name": "USDe",
+        "symbol": "USDe"
+      },
+      {
         "address": "0x966570A84709D693463CDD69dCadb0121b2C9d26",
         "decimals": 18,
         "name": "taoUSD",
