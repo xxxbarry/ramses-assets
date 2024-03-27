@@ -149,6 +149,12 @@
         "symbol": "MUTO"
       },
       {
+        "address": "0x7D8Bb3147F4f73aD58cD31496B12eEF416D13dA4",
+        "decimals": 18,
+        "name": "Insane Technology Index",
+        "symbol": "ITX"
+      },
+      {
         "address": "0xa334884bF6b0A066d553D19e507315E839409e62",
         "decimals": 18,
         "name": "Ethos Reserve Note",

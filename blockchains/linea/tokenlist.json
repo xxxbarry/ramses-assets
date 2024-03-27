@@ -107,6 +107,12 @@
         "decimals": 18
       },
       {
+        "address": "0x2cEFbC78f01590a8961fF9d282726B64635BCb44",
+        "decimals": 18,
+        "name": "Insane Technology Index",
+        "symbol": "ITX"
+      },
+      {
         "name": "Renzo Restaked ETH",
         "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
         "decimals": 18,
