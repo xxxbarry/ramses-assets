@@ -113,6 +113,12 @@
         "symbol": "ITX"
       },
       {
+        "address": "0x21d624c846725ABe1e1e7d662E9fB274999009Aa",
+        "decimals": 18,
+        "name": "CRYSTAL",
+        "symbol": "CRYSTAL"
+      },
+      {
         "name": "Renzo Restaked ETH",
         "address": "0x2416092f143378750bb29b79eD961ab195CcEea5",
         "decimals": 18,
