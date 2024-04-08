@@ -695,6 +695,12 @@
         "symbol": "EUROs"
       },
       {
+        "address": "0x73873c0C50846F0a78424aF34ac2d55013c0e2d0",
+        "decimals": 18,
+        "name": "MCLB",
+        "symbol": "MCLB"
+      }
+      {
         "address": "0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e",
         "decimals": 18,
         "name": "Standard Token",
