@@ -155,6 +155,18 @@
         "symbol": "LAMA"
       },
       {
+        "address": "0xEbB5d4959B2FbA6318FbDa7d03cd44aE771fc999",
+        "decimals": 18,
+        "name": "KONG",
+        "symbol": "KONG"
+      },
+      {
+        "address": "0x3B0cFFdA9a5aB64135C227638e777cEec0C243A8",
+        "decimals": 18,
+        "name": "Fang Dao",
+        "symbol": "fDAO"
+      },
+      {
         "name": "fBOMB",
         "address": "0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce",
         "symbol": "fBOMB",
