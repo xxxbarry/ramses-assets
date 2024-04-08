@@ -167,6 +167,12 @@
         "symbol": "fDAO"
       },
       {
+        "address": "0x245B532ad64c7FBfeEC9aa42f37291b183cEA91b",
+        "decimals": 18,
+        "name": "SWOL",
+        "symbol": "SWOL"
+      },
+      {
         "name": "fBOMB",
         "address": "0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce",
         "symbol": "fBOMB",
