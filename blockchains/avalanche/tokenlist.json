@@ -173,6 +173,12 @@
         "symbol": "SWOL"
       },
       {
+        "address": "0x3B708Fa1F05686f4D1b25Edd48643dC0b8185E91",
+        "decimals": 18,
+        "name": "MCLB",
+        "symbol": "MCLB"
+      },
+      {
         "name": "fBOMB",
         "address": "0x5C09A9cE08C4B332Ef1CC5f7caDB1158C32767Ce",
         "symbol": "fBOMB",
