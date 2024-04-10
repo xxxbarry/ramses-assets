@@ -701,6 +701,12 @@
         "symbol": "MCLB"
       },
       {
+        "address": "0xCF934E2402A5e072928a39a956964eb8F2B5B79C",
+        "decimals": 18,
+        "name": "PoolTogether",
+        "symbol": "POOL"
+      },
+      {
         "address": "0xf5A27E55C748bCDdBfeA5477CB9Ae924f0f7fd2e",
         "decimals": 18,
         "name": "Standard Token",
