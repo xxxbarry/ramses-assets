@@ -137,6 +137,12 @@
         "symbol": "ezETH"
       },
       {
+        "address": "0x0449eCb33b40555bd957190C25eCCce2CDB6b631",
+        "decimals": 18,
+        "name": "YieldFarming Index",
+        "symbol": "YFX"
+      },
+      {
         "address": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
         "decimals": 18,
         "name": "Mai Stablecoin",
