@@ -149,6 +149,18 @@
         "symbol": "fBOMB"
       },
       {
+        "address": "0xEcc68d0451E20292406967Fe7C04280E5238Ac7D",
+        "decimals": 18,
+        "name": "Frax Ether",
+        "symbol": "frxETH"
+      },
+      {
+        "address": "0x406Cde76a3fD20e48bc1E0F60651e60Ae204B040",
+        "decimals": 18,
+        "name": "Axelar Wrapped FRAX",
+        "symbol": "axlFRAX"
+      },
+      {
         "address": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
         "decimals": 18,
         "name": "Mai Stablecoin",
