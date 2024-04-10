@@ -143,6 +143,12 @@
         "symbol": "YFX"
       },
       {
+        "address": "0x8cf881799e3b5ab24271a9b66b6ca2b0e575b1ef",
+        "decimals": 18,
+        "name": "fBOMB",
+        "symbol": "fBOMB"
+      },
+      {
         "address": "0xf3B001D64C656e30a62fbaacA003B1336b4ce12A",
         "decimals": 18,
         "name": "Mai Stablecoin",
