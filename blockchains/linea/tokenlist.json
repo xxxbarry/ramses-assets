@@ -143,6 +143,12 @@
         "symbol": "YFX"
       },
       {
+        "address": "0x783d06DB0A46CFD0c18411F0904833D52e9E1eDc",
+        "decimals": 18,
+        "name": "Bridged YieldFarming Index",
+        "symbol": "YFX.b"
+      },
+      {
         "address": "0x8cf881799E3B5ab24271A9B66b6Ca2b0e575B1ef",
         "decimals": 18,
         "name": "fBOMB",
