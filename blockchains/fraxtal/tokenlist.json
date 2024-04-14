@@ -135,6 +135,12 @@
         "decimals": 18,
         "name": "USDe",
         "symbol": "USDe"
+      },
+      {
+        "address": "0x7F3a9Afc827AeEdb0c5dC1A66C0Baa41cD7289F0",
+        "decimals": 8,
+        "name": "Wrapped Bitcoin",
+        "symbol": "WBTC"
       }
     ] 
   ],
