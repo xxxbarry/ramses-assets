@@ -273,6 +273,12 @@
         "address": "0x184ff13B3EBCB25Be44e860163A5D8391Dd568c1",
         "symbol": "KIMBO",
         "decimals": 18
+      },
+      {
+        "address": "0xc8E7fB72B53D08C4f95b93b390ed3f132d03f2D5",
+        "decimals": 18,
+        "name": "SQRCAT",
+        "symbol": "SQRCAT"
       }
     ]
   ],
