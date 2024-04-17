@@ -139,14 +139,20 @@
       {
         "address": "0x0449eCb33b40555bd957190C25eCCce2CDB6b631",
         "decimals": 18,
-        "name": "YieldFarming Index",
+        "name": "YieldFarming Index (OLD)",
         "symbol": "YFX"
       },
       {
         "address": "0x783d06DB0A46CFD0c18411F0904833D52e9E1eDc",
         "decimals": 18,
-        "name": "Bridged YieldFarming Index",
+        "name": "Bridged YieldFarming Index (OLD)",
         "symbol": "YFX.b"
+      },
+      {
+        "address": "0x2dA5767105072d111f28344E05b5cF4Eb809ca5A",
+        "decimals": 18,
+        "name": "Layer Zero YFX",
+        "symbol": "lzYFX"
       },
       {
         "address": "0x8cf881799E3B5ab24271A9B66b6Ca2b0e575B1ef",
