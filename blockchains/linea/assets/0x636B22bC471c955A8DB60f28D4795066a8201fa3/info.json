@@ -1,0 +1,7 @@
+{
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0x636B22bC471c955A8DB60f28D4795066a8201fa3"
+  }

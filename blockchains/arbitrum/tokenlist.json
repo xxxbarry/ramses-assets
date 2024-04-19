@@ -402,6 +402,12 @@
         "decimals": 18
       },
       {
+        "address": "0x2dA5767105072d111f28344E05b5cF4Eb809ca5A",
+        "decimals": 18,
+        "name": "Layer Zero YFX",
+        "symbol": "lzYFX"
+      },
+      {
         "name": "GNS",
         "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
         "symbol": "GNS",
