@@ -432,6 +432,12 @@
         "decimals": 18
       },
       {
+        "name": "Limestone.fi Points",
+        "address": "0x9F53b1CC58de94597C8b17CA8bD71Ca71f80a6C9",
+        "decimals": 18,
+        "symbol": "LIME"
+      },
+      {
         "name": "frxETH",
         "address": "0x178412e79c25968a32e89b11f63b33f733770c2a",
         "symbol": "frxETH",
