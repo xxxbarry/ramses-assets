@@ -179,6 +179,12 @@
         "symbol": "MAI"
       },
       {
+        "address": "0x1A89E06B7677A4a321886A8330eEc05a061C75ae",
+        "decimals": 18,
+        "name": "frogwifcat",
+        "symbol": "WEF"
+      },
+      {
         "address": "0x5FBDF89403270a1846F5ae7D113A989F850d1566",
         "decimals": 18,
         "name": "Foxy",
