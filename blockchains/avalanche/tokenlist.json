@@ -279,6 +279,12 @@
         "decimals": 18,
         "name": "SQRCAT",
         "symbol": "SQRCAT"
+      },
+      {
+        "address": "0xA25EaF2906FA1a3a13EdAc9B9657108Af7B703e3",
+        "decimals": 18,
+        "name": "GoGoPool Liquid Staking Token",
+        "symbol": "ggAVAX"
       }
     ]
   ],
