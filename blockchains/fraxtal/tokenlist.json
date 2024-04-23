@@ -137,6 +137,12 @@
         "symbol": "USDe"
       },
       {
+        "address": "0x889bf3E00e93Bc9CE17A7f8141ef109283913f37",
+        "decimals": 6,
+        "name": "USDS",
+        "symbol": "USDS"
+      },
+      {
         "address": "0x7F3a9Afc827AeEdb0c5dC1A66C0Baa41cD7289F0",
         "decimals": 8,
         "name": "Wrapped Bitcoin",
