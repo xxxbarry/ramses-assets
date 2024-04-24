@@ -195,6 +195,12 @@
         "decimals": 18,
         "name": "Uniswap",
         "symbol": "UNI"
+      },
+      {
+        "name": "rsETHWrapper",
+        "address": "0xD2671165570f41BBB3B0097893300b6EB6101E6C",
+        "decimals": 18,
+        "symbol": "wrsETH"
       }
     ] 
   ],
