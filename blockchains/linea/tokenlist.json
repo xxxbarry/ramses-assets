@@ -201,6 +201,12 @@
         "address": "0xD2671165570f41BBB3B0097893300b6EB6101E6C",
         "decimals": 18,
         "symbol": "wrsETH"
+      },
+      {
+        "address": "0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2",
+        "decimals": 18,
+        "name": "Linus Token",
+        "symbol": "LINUS"
       }
     ] 
   ],

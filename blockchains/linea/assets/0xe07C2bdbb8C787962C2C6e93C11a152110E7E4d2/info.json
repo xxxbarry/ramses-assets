@@ -1,0 +1,7 @@
+{
+    "name": "Linus Token",
+    "symbol": "LINUS",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0xe07C2bdbb8C787962C2C6e93C11a152110E7E4d2"
+  }
