@@ -207,6 +207,12 @@
         "decimals": 18,
         "name": "Linus Token",
         "symbol": "LINUS"
+      },
+      {
+        "address": "0x1Bf74C010E6320bab11e2e5A532b5AC15e0b8aA6",
+        "decimals": 18,
+        "name": "Wrapped eETH",
+        "symbol": "weETH"
       }
     ] 
   ],
