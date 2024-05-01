@@ -39,7 +39,13 @@
         "address": "0xcA77eB3fEFe3725Dc33bccB54eDEFc3D9f764f97",
         "symbol": "DAI",
         "decimals": 18
-      }   
+      },
+      {
+        "name": "Nuri Petals",
+        "address": "0x967ecff87B3D2771C8769B099DCdC3F8C44bf856",
+        "decimals": 18,
+        "symbol": "PTL"
+      }
     ] 
   ],
   "version": {
