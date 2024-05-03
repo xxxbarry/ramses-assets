@@ -213,6 +213,12 @@
         "decimals": 18,
         "name": "Wrapped eETH",
         "symbol": "weETH"
+      },
+      {
+        "address": "0x78354f8DcCB269a615A7e0a24f9B0718FDC3C7A7",
+        "decimals": 18,
+        "name": "ZeroLend",
+        "symbol": "ZERO"
       }
     ] 
   ],
