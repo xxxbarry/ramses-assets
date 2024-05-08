@@ -59,6 +59,12 @@
         "decimals": 18
       },
       {
+        "name": "NumberGoUpTech",
+        "address": "0x5Ac04b69bDE6f67C0bd5D6bA6fD5D816548b066a",
+        "decimals": 18,
+        "symbol": "TECH"
+      },
+      {
         "name": "Dai Stablecoin",
         "address": "0xd586E7F844cEa2F87f50152665BCbc2C279D8d70",
         "symbol": "DAI.e",
