@@ -147,6 +147,12 @@
         "decimals": 8,
         "name": "Wrapped Bitcoin",
         "symbol": "WBTC"
+      },
+      {
+        "address": "0x8E2F0Dc8ceFEFcbfE122cE52f9Df7F4cC1BDA9a2",
+        "decimals": 18,
+        "name": "frxBULLAS",
+        "symbol": "$frxBULLAS"
       }
     ] 
   ],
