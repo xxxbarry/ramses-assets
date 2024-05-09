@@ -291,6 +291,12 @@
         "decimals": 18,
         "name": "GoGoPool Liquid Staking Token",
         "symbol": "ggAVAX"
+      },
+      {
+        "address": "0xa5be8073dc57fbfae8ae86833bbd765bbb682851",
+        "decimals": 18,
+        "name": "SafeToken",
+        "symbol": "ST"
       }
     ]
   ],
