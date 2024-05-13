@@ -729,6 +729,12 @@
         "decimals": 18,
         "name": "Standard Token",
         "symbol": "TST"
+      },
+      {
+        "address": "0xE85B662Fe97e8562f4099d8A1d5A92D4B453bF30",
+        "decimals": 18,
+        "name": "Thales DAO Token",
+        "symbol": "THALES"
       }
     ]
   ],
