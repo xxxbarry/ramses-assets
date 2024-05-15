@@ -219,6 +219,12 @@
         "decimals": 18,
         "name": "ZeroLend",
         "symbol": "ZERO"
+      },
+      {
+        "address": "0x5A7a183B6B44Dc4EC2E3d2eF43F98C5152b1d76d",
+        "decimals": 18,
+        "name": "InceptionLRT restaked ETH",
+        "symbol": "inETH"
       }
     ] 
   ],
