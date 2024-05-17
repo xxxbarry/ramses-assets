@@ -237,6 +237,12 @@
         "decimals": 18,
         "name": "Paladin Token",
         "symbol": "PAL"
+      },
+      {
+        "address": "0x59846bfC18FC21dF6Bed378748F99eA38F44d50a",
+        "decimals": 6,
+        "name": "Layzer Zero Insane Technology",
+        "symbol": "lzIT"
       }
     ] 
   ],
