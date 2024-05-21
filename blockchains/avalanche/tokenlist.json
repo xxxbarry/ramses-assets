@@ -297,6 +297,12 @@
         "decimals": 18,
         "name": "SafeToken",
         "symbol": "ST"
+      },
+      {
+        "address": "0x630AE7e2dBcA4d2985057C5DEC6849587DB838B7",
+        "decimals": 18,
+        "name": "Dominating Dominic",
+        "symbol": "DOM"
       }
     ]
   ],
