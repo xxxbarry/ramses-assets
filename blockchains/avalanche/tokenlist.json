@@ -315,6 +315,12 @@
         "decimals": 18,
         "name": "HEFE",
         "symbol": "HEFE"
+      },
+      {
+        "address": "0x58dd4CeA03c3b90Ae8C15d950Bc31545FCbf688f",
+        "decimals": 18,
+        "name": "Kelso",
+        "symbol": "KEL"
       }
     ]
   ],
