@@ -315,6 +315,12 @@
         "decimals": 18,
         "name": "HEFE",
         "symbol": "HEFE"
+      },
+      {
+        "address": "0xE99CC507f05a641817d6DBe12051Ffa3bf6f531d",
+        "decimals": 18,
+        "name": "Iggy",
+        "symbol": "IGGY"
       }
     ]
   ],
