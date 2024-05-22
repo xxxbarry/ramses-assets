@@ -303,6 +303,12 @@
         "decimals": 18,
         "name": "Dominating Dominic",
         "symbol": "DOM"
+      },
+      {
+        "address": "0x69D0cF74946CC6b0870665Cf76E28cA38FC2CD7c",
+        "decimals": 18,
+        "name": "PASTRAMI",
+        "symbol": "STRAMI"
       }
     ]
   ],
