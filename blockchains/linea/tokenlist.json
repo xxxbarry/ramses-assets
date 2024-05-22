@@ -243,6 +243,12 @@
         "decimals": 6,
         "name": "Layzer Zero Insane Technology",
         "symbol": "lzIT"
+      },
+      {
+        "address": "0x5FFcE65A40f6d3de5332766ffF6A28BF491C868c",
+        "decimals": 18,
+        "name": "Free Bridged SolvBTC",
+        "symbol": "SolvBTC.m"
       }
     ] 
   ],
