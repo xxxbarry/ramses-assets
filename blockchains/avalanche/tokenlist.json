@@ -309,6 +309,12 @@
         "decimals": 18,
         "name": "PASTRAMI",
         "symbol": "STRAMI"
+      },
+      {
+        "address": "0x18E3605B13F10016901eAC609b9E188CF7c18973",
+        "decimals": 18,
+        "name": "HEFE",
+        "symbol": "HEFE"
       }
     ]
   ],
