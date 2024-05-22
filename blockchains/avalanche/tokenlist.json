@@ -315,6 +315,12 @@
         "decimals": 18,
         "name": "HEFE",
         "symbol": "HEFE"
+      },
+      {
+        "address": "0x22EE0F696C0B5Bbea79E799a2bcDf8bd6e7479Fb",
+        "decimals": 18,
+        "name": "The Block Father",
+        "symbol": "FATHER"
       }
     ]
   ],
