@@ -249,6 +249,12 @@
         "decimals": 18,
         "name": "Free Bridged SolvBTC",
         "symbol": "SolvBTC.m"
+      },
+      {
+        "address": "0xb20116eE399f15647BB1eEf9A74f6ef3b58bc951",
+        "decimals": 18,
+        "name": "Lyve Debt Token",
+        "symbol": "LYU"
       }
     ] 
   ],
