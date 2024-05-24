@@ -321,6 +321,12 @@
         "decimals": 18,
         "name": "The Block Father",
         "symbol": "FATHER"
+      },
+      {
+        "address": "0xc03445D311bE83cc369911c480aB14918834AB52",
+        "decimals": 18,
+        "name": "Newton the Newt",
+        "symbol": "NEWT"
       }
     ]
   ],
