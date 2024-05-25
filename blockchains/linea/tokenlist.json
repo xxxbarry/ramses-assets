@@ -255,6 +255,12 @@
         "decimals": 18,
         "name": "Lyve Debt Token",
         "symbol": "LYU"
+      },
+      {
+        "address": "0x1F63D0EC7193964142ef6B13d901462d0E5CbB50",
+        "decimals": 18,
+        "name": "ONEPUNCH",
+        "symbol": "ONEPUNCH"
       }
     ] 
   ],
