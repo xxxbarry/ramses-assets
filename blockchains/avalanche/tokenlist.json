@@ -327,6 +327,12 @@
         "decimals": 18,
         "name": "Newton the Newt",
         "symbol": "NEWT"
+      },
+      {
+        "address": "0x5E7e51a2D26c71a4259b908D006D4bD8c9AbDde0",
+        "decimals": 18,
+        "name": "Insane Technology Index",
+        "symbol": "ITX"
       }
     ]
   ],
