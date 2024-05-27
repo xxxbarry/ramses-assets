@@ -261,6 +261,12 @@
         "decimals": 18,
         "name": "ONEPUNCH",
         "symbol": "ONEPUNCH"
+      },
+      {
+        "address": "0xaCb54d07cA167934F57F829BeE2cC665e1A5ebEF",
+        "decimals": 18,
+        "name": "CROAK",
+        "symbol": "CROAK"
       }
     ] 
   ],
