@@ -333,6 +333,12 @@
         "decimals": 18,
         "name": "Insane Technology Index",
         "symbol": "ITX"
+      },
+      {
+        "address": "0x201d04f88Bc9B3bdAcdf0519a95E117f25062D38",
+        "decimals": 18,
+        "name": "FREAK Anon",
+        "symbol": "FREAK"
       }
     ]
   ],
