@@ -267,6 +267,12 @@
         "decimals": 18,
         "name": "CROAK",
         "symbol": "CROAK"
+      },
+      {
+        "address": "0xb55e892D38056481BB5bB361EdDbc8c2c1477827",
+        "decimals": 18,
+        "name": "LYVE",
+        "symbol": "LYVE"
       }
     ] 
   ],
