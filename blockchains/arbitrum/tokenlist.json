@@ -735,6 +735,12 @@
         "decimals": 18,
         "name": "Thales DAO Token",
         "symbol": "THALES"
+      },
+      {
+        "address": "0xC5e16f5009776aB645d6719B72962892428b2ac2",
+        "decimals": 18,
+        "name": "Gravita: oARB Token",
+        "symbol": "goARB"
       }
     ]
   ],
