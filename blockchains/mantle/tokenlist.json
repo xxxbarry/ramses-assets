@@ -183,6 +183,12 @@
         "decimals": 18,
         "name": "USDe",
         "symbol": "USDe"
+      },
+      {
+        "address": "0x4b7F28397B4294277E7825f224172944f4f5A877",
+        "decimals": 18,
+        "name": "IntentX Token",
+        "symbol": "INTX"
       }
     
     ]
