@@ -1,0 +1,7 @@
+{
+  "name": "Axelar Wrapped USDC",
+  "symbol": "axlUSDC",
+  "type": "ERC20",
+  "decimals": 6,
+  "id": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC"
+}
