@@ -363,6 +363,12 @@
         "decimals": 18,
         "name": "Bonez",
         "symbol": "BNZ"
+      },
+      {
+        "address": "0xfaB550568C688d5D8A52C7d794cb93Edc26eC0eC",
+        "decimals": 6,
+        "name": "Axelar Wrapped USDC",
+        "symbol": "axlUSDC"
       }
     ]
   ],
