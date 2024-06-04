@@ -339,6 +339,30 @@
         "decimals": 18,
         "name": "FREAK Anon",
         "symbol": "FREAK"
+      },
+      {
+        "address": "0x810A45ecaA8077C8d1fdbfe03E0cA96015cb79E2",
+        "decimals": 18,
+        "name": "CANS",
+        "symbol": "CANS"
+      },
+      {
+        "address": "0x05B0Def5c00bA371683D7035934BcF82B737C364",
+        "decimals": 18,
+        "name": "KINGSHIT X",
+        "symbol": "KINGSHIT.x"
+      },
+      {
+        "address": "0x88F89BE3E9b1dc1C5F208696fb9cABfcc684bD5F",
+        "decimals": 18,
+        "name": "Fold",
+        "symbol": "FLD"
+      },
+      {
+        "address": "0x4D6Ec47118f807ACE03d3B3A4EE6AA96CB2AB677",
+        "decimals": 18,
+        "name": "Bonez",
+        "symbol": "BNZ"
       }
     ]
   ],
