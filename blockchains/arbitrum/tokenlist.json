@@ -741,6 +741,18 @@
         "decimals": 18,
         "name": "Gravita: oARB Token",
         "symbol": "goARB"
+      },
+      {
+        "address": "0x3d15fD46CE9e551498328B1C83071D9509E2C3a0",
+        "decimals": 18,
+        "name": "Universal ETH",
+        "symbol": "uniETH"
+      },
+      {
+        "address": "0xAFccb724e3aec1657fC9514E3e53A0E71e80622D",
+        "decimals": 18,
+        "name": "VKA",
+        "symbol": "VKA"
       }
     ]
   ],
