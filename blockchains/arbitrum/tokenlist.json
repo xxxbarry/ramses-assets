@@ -753,6 +753,12 @@
         "decimals": 18,
         "name": "VKA",
         "symbol": "VKA"
+      },
+      {
+        "address": "0xf7d4e7273E5015C96728A6b02f31C505eE184603",
+        "decimals": 18,
+        "name": "Staked ETH",
+        "symbol": "osETH"
       }
     ]
   ],
