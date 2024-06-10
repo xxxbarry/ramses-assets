@@ -771,6 +771,12 @@
         "decimals": 18,
         "name": "Wrapped Mountain Protocol USD", 
         "symbol": "wUSDM"
+      },
+      {
+        "address": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7",
+        "decimals": 18,
+        "name": "Graph Token",
+        "symbol": "GRT"
       }
     ]
   ],

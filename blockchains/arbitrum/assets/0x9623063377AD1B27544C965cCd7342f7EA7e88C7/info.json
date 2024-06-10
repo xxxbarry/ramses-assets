@@ -1,0 +1,7 @@
+{
+  "name": "Graph Token",
+  "symbol": "GRT",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x9623063377AD1B27544C965cCd7342f7EA7e88C7"
+}
