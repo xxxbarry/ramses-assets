@@ -1,0 +1,7 @@
+{
+    "name": "rsETHWrapper",
+    "symbol": "wrsETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0xa25b25548B4C98B0c7d3d27dcA5D5ca743d68b7F"
+  }
