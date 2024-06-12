@@ -369,6 +369,12 @@
         "decimals": 6,
         "name": "Axelar Wrapped USDC",
         "symbol": "axlUSDC"
+      },
+      {
+        "address": "0xe30A6FB6d2C153D4a09477e27b9a2A71c5C8acc8",
+        "decimals": 18,
+        "name": "Red Rush Turbo",
+        "symbol": "RUSH"
       }
     ]
   ],
