@@ -777,6 +777,12 @@
         "decimals": 18,
         "name": "Graph Token",
         "symbol": "GRT"
+      },
+      {
+        "address": "0xd3443ee1e91aF28e5FB858Fbd0D72A63bA8046E0",
+        "decimals": 6,
+        "name": "Gains Network USDC",
+        "symbol": "gUSDC"
       }
     ]
   ],
