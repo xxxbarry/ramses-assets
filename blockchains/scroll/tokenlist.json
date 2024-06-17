@@ -57,6 +57,12 @@
         "address": "0xa25b25548B4C98B0c7d3d27dcA5D5ca743d68b7F",
         "decimals": 18,
         "symbol": "wrsETH"
+      },
+      {
+        "address": "0x9d92e3d212F0E7367ef007AffA5920f9891eb1D4",
+        "decimals": 18,
+        "name": "KOMODO",
+        "symbol": "KOMO"
       }
     ] 
   ],
