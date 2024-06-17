@@ -189,6 +189,12 @@
         "decimals": 18,
         "name": "IntentX Token",
         "symbol": "INTX"
+      },
+      {
+        "address": "0xbB16Bd7692D78EEf8f884E0227c845Fc70E98349",
+        "decimals": 6,
+        "name": "Layer Zero Insane Technology",
+        "symbol": "lzIT"
       }
     
     ]
