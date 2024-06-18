@@ -789,6 +789,12 @@
         "decimals": 6,
         "name": "Layzer Zero Insane Technology",
         "symbol": "lzIT"
+      },
+      {
+        "address": "0xb2F30A7C980f052f02563fb518dcc39e6bf38175",
+        "decimals": 18,
+        "name": "Synthetix USD",
+        "symbol": "USDx"
       }
     ]
   ],

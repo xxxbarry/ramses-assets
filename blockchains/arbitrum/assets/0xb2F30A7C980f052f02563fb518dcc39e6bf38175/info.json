@@ -1,0 +1,7 @@
+{
+  "name": "Synthetix USD",
+  "symbol": "USDx",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0xb2F30A7C980f052f02563fb518dcc39e6bf38175"
+}
