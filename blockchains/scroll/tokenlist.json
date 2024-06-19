@@ -47,6 +47,12 @@
         "symbol": "PTL"
       },
       {
+        "name": "NURI Token",
+        "address": "0xAAAE8378809bb8815c08D3C59Eb0c7D1529aD769",
+        "decimals": 18,
+        "symbol": "NURI"
+      },
+      {
         "address": "0x80137510979822322193FC997d400D5A6C747bf7",
         "decimals": 18,
         "name": "StakeStone Ether",
