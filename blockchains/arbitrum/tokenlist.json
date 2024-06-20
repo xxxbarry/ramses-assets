@@ -795,6 +795,12 @@
         "decimals": 18,
         "name": "Synthetix USD",
         "symbol": "USDx"
+      },
+      {
+        "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+        "decimals": 18,
+        "name": "LayerZero",
+        "symbol": "ZRO"
       }
     ]
   ],
