@@ -375,6 +375,12 @@
         "decimals": 18,
         "name": "Red Rush Turbo",
         "symbol": "RUSH"
+      },
+      {
+        "address": "0xaBe7a9dFDA35230ff60D1590a929aE0644c47DC1",
+        "decimals": 18,
+        "name": "aUSD",
+        "symbol": "aUSD"
       }
     ]
   ],
