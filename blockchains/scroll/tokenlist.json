@@ -69,6 +69,12 @@
         "decimals": 18,
         "name": "KOMODO",
         "symbol": "KOMO"
+      },
+      {
+        "address": "0x734163E4D84d9F4fC962C4316B107171E3FD0219",
+        "decimals" :18,
+        "name": "zHAWK",
+        "symbol": "zHAWK"
       }
     ] 
   ],
