@@ -1,0 +1,7 @@
+{
+  "name": "Wrapped eETH",
+  "symbol": "weETH",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0x01f0a31698C4d065659b9bdC21B3610292a1c506"
+}

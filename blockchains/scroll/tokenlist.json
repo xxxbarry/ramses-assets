@@ -71,10 +71,10 @@
         "symbol": "KOMO"
       },
       {
-        "address": "0xc3B7CB17E6216D1Dc62ECE2eb364C4Ab667D37E4",
+        "address": "0x01f0a31698C4d065659b9bdC21B3610292a1c506",
         "decimals" :18,
-        "name": "zHAWK",
-        "symbol": "zHAWK"
+        "name": "Wrapped eETH",
+        "symbol": "weETH"
       }
     ] 
   ],
