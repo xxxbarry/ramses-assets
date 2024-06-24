@@ -381,6 +381,12 @@
         "decimals": 18,
         "name": "aUSD",
         "symbol": "aUSD"
+      },
+      {
+        "address": "0x8d1d544a1ef0dcF76E9C60b099C568Fac9Ed4EbE",
+        "decimals": 6,
+        "name": "Layer Zero Insane Technology",
+        "symbol": "lzIT"
       }
     ]
   ],
