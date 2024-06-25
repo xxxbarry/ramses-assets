@@ -1,6 +1,6 @@
 {
-  "name": "agEUR",
-  "symbol": "agEUR",
+  "name": "EURA",
+  "symbol": "EURA",
   "type": "ERC20",
   "decimals": 18,
   "id": "0xFA5Ed56A203466CbBC2430a43c66b9D8723528E7"
