@@ -273,6 +273,12 @@
         "decimals": 18,
         "name": "LYVE",
         "symbol": "LYVE"
+      },
+      {
+        "address": "0xc608Dfb90A430Df79a8a1eDBC8be7f1A0Eb4E763",
+        "decimals": 18,
+        "name": "Aladdin rUSD",
+        "symbol": "arUSD"
       }
     ] 
   ],
