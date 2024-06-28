@@ -75,6 +75,12 @@
         "decimals" :18,
         "name": "Wrapped eETH",
         "symbol": "weETH"
+      },
+      {
+        "address": "0xc4d46E8402F476F269c379677C99F18E22Ea030e",
+        "decimals": 18,
+        "name": "PufferVault",
+        "symbol": "PufETH"
       }
     ] 
   ],
