@@ -93,6 +93,12 @@
         "decimals": 18,
         "name": "Fantom Bomb",
         "symbol": "fBOMB"
+      },
+      {
+        "address": "0x3Ba89d490AB1C0c9CC2313385b30710e838370a4",
+        "decimals": 18,
+        "name": "Free Bridged SolvBTC.b",
+        "symbol": "SolvBTC.b"
       }
     ] 
   ],
