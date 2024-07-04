@@ -813,6 +813,12 @@
         "decimals": 18,
         "name": "Compound",
         "symbol": "COMP"
+      },
+      {
+        "address": "0x7dfF72693f6A4149b17e7C6314655f6A9F7c8B33",
+        "decimals": 18,
+        "name": "Gho Token",
+        "symbol": "GHO"
       }
     ]
   ],
