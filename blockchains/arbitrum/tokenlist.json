@@ -819,6 +819,12 @@
         "decimals": 18,
         "name": "Gho Token",
         "symbol": "GHO"
+      },
+      {
+        "address": "0x7189fb5B6504bbfF6a852B13B7B82a3c118fDc27",
+        "decimals": 18,
+        "name": "ether.fi governance token",
+        "symbol": "ETHFI"
       }
     ]
   ],
