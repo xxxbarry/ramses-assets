@@ -1,5 +1,5 @@
 {
-  "name": "Trust Wallet: Arbitrum List",
+  "name": "RAMSES: Arbitrum List",
   "logoURI": "https://trustwallet.com/assets/images/favicon.png",
   "timestamp": "2022-01-27T14:33:26.183301",
   "tokens": [
@@ -32,18 +32,6 @@
         "name": "Wrapped Ether",
         "address": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
         "symbol": "WETH",
-        "decimals": 18
-      },
-      {
-        "name": "Wrapped BNB",
-        "address": "0xa9004A5421372E1D83fB1f85b0fc986c912f91f3",
-        "symbol": "WBNB",
-        "decimals": 18
-      },
-      {
-        "name": "FLYWHEEL",
-        "address": "0x018E32f5a78329A28232e99A158879B3bB512cb1",
-        "symbol": "FLYWHEEL",
         "decimals": 18
       },
       {
@@ -154,7 +142,6 @@
         "symbol": "LQTY",
         "decimals": 18
       },
-
       {
         "name": "OATHv1",
         "address": "0xa1150db5105987cec5fd092273d1e3cbb22b378b",
@@ -225,12 +212,6 @@
         "name": "Ennead neadRAM Compounder",
         "address": "0xF0cA868f6642366dd3a1EF22C7457a5D1dbca6E4",
         "symbol": "neadAC-neadRAM",
-        "decimals": 18
-      },
-      {
-        "name": "JRT",
-        "address": "0x6aa395f06986ea4efe0a4630c7865c1eb08d5e7e",
-        "symbol": "JRT",
         "decimals": 18
       },
       {
@@ -312,12 +293,6 @@
         "decimals": 18
       },
       {
-        "name": "Insane Technology",
-        "address": "0x18cB93A4f827840a25789659378e429c00D13590",
-        "symbol": "IT",
-        "decimals": 6
-      },
-      {
         "name": "Xai",
         "address": "0x4Cb9a7AE498CEDcBb5EAe9f25736aE7d428C9D66",
         "symbol": "XAI",
@@ -352,12 +327,6 @@
         "address": "0x2bcC6D6CdBbDC0a4071e48bb3B969b06B3330c07",
         "symbol": "SOL",
         "decimals": 9
-      },
-      {
-        "name": "Warp Drive",
-        "address": "0xf0B68b1Ead1Ed21f6b69807af6Ca1519A8250F00",
-        "symbol": "WARP",
-        "decimals": 18
       },
       {
         "name": "LQDR (OLD)",
@@ -401,12 +370,7 @@
         "symbol": "OMNI",
         "decimals": 18
       },
-      {
-        "address": "0x2dA5767105072d111f28344E05b5cF4Eb809ca5A",
-        "decimals": 18,
-        "name": "Layer Zero YFX",
-        "symbol": "lzYFX"
-      },
+
       {
         "name": "GNS",
         "address": "0x18c11FD286C5EC11c3b683Caa813B77f5163A122",
@@ -438,21 +402,9 @@
         "decimals": 18
       },
       {
-        "name": "Limestone.fi Points",
-        "address": "0x9F53b1CC58de94597C8b17CA8bD71Ca71f80a6C9",
-        "decimals": 18,
-        "symbol": "LIME"
-      },
-      {
         "name": "frxETH",
         "address": "0x178412e79c25968a32e89b11f63b33f733770c2a",
         "symbol": "frxETH",
-        "decimals": 18
-      },
-      {
-        "name": "UNIDX",
-        "address": "0x5429706887FCb58a595677B73E9B0441C25d993D",
-        "symbol": "UNIDX",
         "decimals": 18
       },
       {
@@ -460,12 +412,6 @@
         "decimals": 18,
         "name": "LINK",
         "symbol": "LINK"
-      },
-      {
-        "address": "0xb766039cc6db368759c1e56b79affe831d0cc507",
-        "decimals": 18,
-        "name": "RPL",
-        "symbol": "RPL"
       },
       {
         "address": "0x088cd8f5ef3652623c22d48b1605dcfe860cd704",
@@ -480,22 +426,10 @@
         "symbol": "LDO"
       },
       {
-        "address": "0x4945970efeec98d393b4b979b9be265a3ae28a8b",
-        "decimals": 18,
-        "name": "GMD",
-        "symbol": "GMD"
-      },
-      {
         "address": "0x4186BFC76E2E237523CBC30FD220FE055156b41F",
         "decimals": 18,
         "name": "KelpDao Restaked ETH",
         "symbol": "rsETH"
-      },
-      {
-        "address": "0xEC13336bbd50790a00CDc0fEddF11287eaF92529",
-        "decimals": 18,
-        "name": "gmUSD",
-        "symbol": "gmUSD"
       },
       {
         "address": "0x35751007a407ca6FEFfE80b3cB397736D2cf4dbe",
@@ -525,12 +459,6 @@
         "decimals": 18,
         "name": "Pendle",
         "symbol": "PENDLE"
-      },
-      {
-        "address": "0x954ac1c73e16c77198e83C088aDe88f6223F3d44",
-        "decimals": 18,
-        "name": "LEVI",
-        "symbol": "LEVI"
       },
       {
         "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
@@ -587,34 +515,16 @@
         "symbol": "EUROe"
       },
       {
-        "address": "0xD67A097dCE9d4474737e6871684aE3c05460F571",
-        "decimals": 18,
-        "name": "GND Protocol",
-        "symbol": "GND"
-      },
-      {
         "address": "0x09E18590E8f76b6Cf471b3cd75fE1A1a9D2B2c2b",
         "decimals": 6,
         "name": "AIDOGE",
         "symbol": "AIDOGE"
       },
       {
-        "address": "0x3DB4B7DA67dd5aF61Cb9b3C70501B1BdB24b2C22",
-        "decimals": 18,
-        "name": "GMD Protocol USDC",
-        "symbol": "gmdUSDC"
-      },
-      {
         "address": "0xf0cb2dc0db5e6c66B9a70Ac27B06b878da017028",
         "decimals": 9,
         "name": "Olympus",
         "symbol": "OHM"
-      },
-      {
-        "address":"0xAf5db6E1CC585ca312E8c8F7c499033590cf5C98",
-        "decimals":18,
-        "name": "Arken Token",
-        "symbol": "ARKEN"
       },
       {
         "address":"0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
@@ -688,18 +598,7 @@
         "name": "Axelar Wrapped USDC",
         "symbol": "axlUSDC"
       },
-      {
-        "address": "0xeEE18334c414A47FB886a7317E1885b2Bfb8c2A6",
-        "decimals": 18,
-        "name": "Savvy BTC",
-        "symbol": "svBTC"
-      },
-      {
-        "address": "0xF202Ab403Cd7E90197ec0f010ee897E283037706",
-        "decimals": 18,
-        "name": "Savvy USD",
-        "symbol": "svUSD"
-      },
+
       {
         "address": "0x66E535e8D2ebf13F49F3D49e5c50395a97C137b1",
         "decimals": 18,
