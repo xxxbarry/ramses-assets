@@ -399,6 +399,12 @@
         "decimals": 18,
         "name": "DeltaPrime",
         "symbol": "PRIME"
+      },
+      {
+        "address": "0xC13381FceC8B73aB2BD3790e5B300f88b552a80f",
+        "decimals": 18,
+        "name": "SENIOR BOT",
+        "symbol": "SENIOR"
       }
     ]
   ],
