@@ -724,6 +724,12 @@
         "decimals": 18,
         "name": "ether.fi governance token",
         "symbol": "ETHFI"
+      },
+      {
+        "address": "0x221A0f68770658C15B525d0F89F5da2baAB5f321",
+        "decimals": 18,
+        "name": "Open Dollar",
+        "symbol": "OD"
       }
     ]
   ],
