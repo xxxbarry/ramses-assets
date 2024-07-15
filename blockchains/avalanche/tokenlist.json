@@ -391,7 +391,7 @@
       {
         "address": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
         "decimals": 18,
-        "name" : "LayerZero",
+        "name": "LayerZero",
         "symbol": "ZRO"
       },
       {
@@ -405,6 +405,24 @@
         "decimals": 18,
         "name": "SENIOR BOT",
         "symbol": "SENIOR"
+      },
+      {
+        "address": "0xF6C95C3A750CC7f6a8C96d9b08CC132A44c7Bd72",
+        "decimals": 18,
+        "name": "ACID404: THE SICKOS",
+        "symbol": "$SICKO"
+      },
+      {
+        "address": "0x7a842a6F4580EDD3df41C1F31E0395044De6Bc75",
+        "decimals": 18,
+        "name": "AVAX GO HIGHER",
+        "symbol": "HIGHER"
+      },
+      {
+        "address": "0x4Afc7838167b77530278483c3d8c1fFe698a912E",
+        "decimals": 18,
+        "name": "Balln Chikn",
+        "symbol": "Balln"
       }
     ]
   ],
