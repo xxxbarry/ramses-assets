@@ -153,6 +153,36 @@
         "decimals": 18,
         "name": "frxBULLAS",
         "symbol": "$frxBULLAS"
+      },
+      {
+        "address": "0xF1e2b576aF4C6a7eE966b14C810b772391e92153",
+        "decimals": 18,
+        "name": "FXB20291231",
+        "symbol": "FXB20291231"
+      },
+      {
+        "address": "0xacA9A33698cF96413A40A4eB9E87906ff40fC6CA",
+        "decimals": 18,
+        "name": "FXB20251231",
+        "symbol": "FXB20251231"
+      },
+      {
+        "address": "0xc38173D34afaEA88Bc482813B3CD267bc8A1EA83",
+        "decimals": 18,
+        "name": "FXB20551231",
+        "symbol": "FXB20551231"
+      },
+      {
+        "address": "0x8e9C334afc76106F08E0383907F4Fca9bB10BA3e",
+        "decimals": 18,
+        "name": "FXB20261231",
+        "symbol": "FXB20261231"
+      },
+      {
+        "address": "0xa71bB8c79dc8FfA90A6Dd711aA9Fbe5114c19cba",
+        "decimals": 18,
+        "name": "FXB20241231",
+        "symbol": "FXB20241231"
       }
     ] 
   ],
