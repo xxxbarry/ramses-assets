@@ -730,6 +730,12 @@
         "decimals": 18,
         "name": "Open Dollar",
         "symbol": "OD"
+      },
+      {
+        "address": "0x308EEA5AA5E4eCaf214A6d0E60D005123d4AcF7D",
+        "decimals": 18,
+        "name": "abcRam",
+        "symbol": "abcRam"
       }
     ]
   ],
