@@ -2,6 +2,6 @@
   "name": "Fire Bitcoin",
   "symbol": "FBTC",
   "type": "ERC20",
-  "decimals": 18,
+  "decimals": 8,
   "id": "0xC96dE26018A54D51c097160568752c4E3BD6C364"
 }
