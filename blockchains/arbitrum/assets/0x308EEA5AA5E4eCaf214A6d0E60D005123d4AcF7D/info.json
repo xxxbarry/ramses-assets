@@ -1,7 +1,7 @@
 {
-  "name": "abcRam",
-  "symbol": "abcRam",
+  "name": "abcRAM",
+  "symbol": "abcRAM",
   "type": "ERC20",
   "decimals": 18,
-  "id": "0x308EEA5AA5E4eCaf214A6d0E60D005123d4AcF7D"
+  "id": "0x9EfCFc5b49390FC3fb9B58607D2e89445Bb380BF"
 }
