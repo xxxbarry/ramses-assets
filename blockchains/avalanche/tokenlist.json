@@ -423,6 +423,12 @@
         "decimals": 18,
         "name": "Balln Chikn",
         "symbol": "Balln"
+      },
+      {
+        "address": "0xFc6Da929c031162841370af240dEc19099861d3B",
+        "decimals": 18,
+        "name": "Domi",
+        "symbol": "DOMI"
       }
     ]
   ],
