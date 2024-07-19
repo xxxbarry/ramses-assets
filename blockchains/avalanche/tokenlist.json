@@ -429,6 +429,12 @@
         "decimals": 18,
         "name": "Domi",
         "symbol": "DOMI"
+      },
+      {
+        "address": "0x69260B9483F9871ca57f81A90D91E2F96c2Cd11d",
+        "decimals": 18,
+        "name": "GoGoPool Protocol",
+        "symbol": "GGP"
       }
     ]
   ],
