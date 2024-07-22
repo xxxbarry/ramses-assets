@@ -736,6 +736,12 @@
         "decimals": 18,
         "name": "abcRAM",
         "symbol": "abcRAM"
+      },
+      {
+        "address": "0x000D636bD52BFc1B3a699165Ef5aa340BEA8939c",
+        "decimals": 18,
+        "name": "Open Dollar Governance",
+        "symbol": "ODG"
       }
     ]
   ],
