@@ -435,6 +435,12 @@
         "decimals": 18,
         "name": "GoGoPool Protocol",
         "symbol": "GGP"
+      },
+      {
+        "address": "0x98B172A09102869adD73116FC92A0A60BFF4778F",
+        "decimals": 18,
+        "name": "APEX",
+        "symbol": "APEX"
       }
     ]
   ],
