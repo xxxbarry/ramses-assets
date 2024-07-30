@@ -748,6 +748,18 @@
         "decimals": 18,
         "name": "TapToken",
         "symbol": "TAP"
+      },
+      {
+        "address": "0x249c48e22E95514Ca975De31f473F30c2f3C0916",
+        "decimals": 18,
+        "name": "USDFI",
+        "symbol": "USDFI"
+      },
+      {
+        "address": "0x666966Ef3925B1c92fa355FDA9722899f3e73451",
+        "decimals": 18,
+        "name": "STABLE",
+        "symbol": "STABLE"
       }
     ]
   ],
