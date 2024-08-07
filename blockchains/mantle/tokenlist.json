@@ -201,6 +201,12 @@
         "decimals": 8,
         "name": "Fire Bitcoin",
         "symbol": "FBTC"
+      },
+      {
+        "address": "0xCffbE0E73c750731EdB38C14Bc81A39dAc91819d",
+        "decimals": 18,
+        "name": "abcCLEO",
+        "symbol": "abcCLEO"
       }
     
     ]
