@@ -105,6 +105,12 @@
         "decimals": 18,
         "name": "USDe",
         "symbol": "USDe"
+      },
+      {
+        "address": "0x549423E69576b80E91dC836ae37e04209660c4ec",
+        "decimals": 18,
+        "name": "Lore Token",
+        "symbol": "LORE"
       }
     ] 
   ],
