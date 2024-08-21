@@ -285,6 +285,12 @@
         "decimals": 18,
         "name": "inception Restaked stETH",
         "symbol": "instETH"
+      },
+      {
+        "address": "0xB838Eb4F224c2454F2529213721500faf732bf4d",
+        "decimals": 18,
+        "name": "Affine ultraETHs 2.0",
+        "symbol": "ultraETHs"
       }
     ] 
   ],
