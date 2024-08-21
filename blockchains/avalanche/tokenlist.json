@@ -453,6 +453,18 @@
         "decimals": 18,
         "name": "DMV",
         "symbol": "DMV"
+      },
+      {
+        "address": "0xdBDd50997361522495EcFE57EBb6850dA0E4C699",
+        "decimals": 18,
+        "name": "Balanced Dollar",
+        "symbol": "bnUSD"
+      },
+      {
+        "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
+        "decimals": 18,
+        "name": "AUSD",
+        "symbol": "AUSD"
       }
     ]
   ],
