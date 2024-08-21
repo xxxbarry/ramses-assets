@@ -462,7 +462,7 @@
       },
       {
         "address": "0x00000000efe302beaa2b3e6e1b18d08d69a9012a",
-        "decimals": 18,
+        "decimals": 6,
         "name": "AUSD",
         "symbol": "AUSD"
       }
