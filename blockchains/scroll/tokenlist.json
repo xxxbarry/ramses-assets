@@ -111,6 +111,12 @@
         "decimals": 18,
         "name": "Lore Token",
         "symbol": "LORE"
+      },
+      {
+        "address": "0x330c43d22bD65a60FfeA93a197f04e87FaA27b70",
+        "decimals": 18,
+        "name": "abcNURI",
+        "symbol": "abcNURI"
       }
     ] 
   ],
