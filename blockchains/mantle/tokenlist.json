@@ -207,6 +207,12 @@
         "decimals": 18,
         "name": "abcCLEO",
         "symbol": "abcCLEO"
+      },
+      {
+        "address": "0xC01a7AD7Fb8a085a3cc16be8eaA10302c78a1783",
+        "decimals": 18,
+        "name": "Aurelis Token",
+        "symbol": "AU"
       }
     
     ]
