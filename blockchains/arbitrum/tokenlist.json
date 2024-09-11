@@ -67,14 +67,14 @@
       {
         "address": "0x71dAbF1cCab1A7A0c622b7473614fdCe79F3600B",
         "decimals": 18,
-        "name" : "XCAD Token",
+        "name": "XCAD Token",
         "symbol": "XCAD"
       },
       {
         "address": "0x966570A84709D693463CDD69dCadb0121b2C9d26",
         "decimals": 18,
         "name": "taoUSD",
-        "symbol":"taoUSD"
+        "symbol": "taoUSD"
       },
       {
         "address": "0x05cBeF357CB14F9861C01F90AC7d5C90CE0ef05e",
@@ -449,7 +449,8 @@
         "name": "wstETH",
         "symbol": "wstETH"
       },
-      {"address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
+      {
+        "address": "0xEC70Dcb4A1EFa46b8F2D97C310C9c4790ba5ffA8",
         "decimals": 18,
         "name": "Rocket Pool ETH",
         "symbol": "rETH"
@@ -527,7 +528,7 @@
         "symbol": "OHM"
       },
       {
-        "address":"0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
+        "address": "0x8D9bA570D6cb60C7e3e0F31343Efe75AB8E65FB1",
         "decimals": 18,
         "name": "Governance OHM",
         "symbol": "gOHM"
@@ -668,7 +669,7 @@
       {
         "address": "0x57F5E098CaD7A3D1Eed53991D4d66C45C9AF7812",
         "decimals": 18,
-        "name": "Wrapped Mountain Protocol USD", 
+        "name": "Wrapped Mountain Protocol USD",
         "symbol": "wUSDM"
       },
       {
@@ -766,6 +767,12 @@
         "decimals": 18,
         "name": "Sperax USD",
         "symbol": "USDs"
+      },
+      {
+        "address": "0x6B2a01A5f79dEb4c2f3c0eDa7b01DF456FbD726a",
+        "decimals": 8,
+        "name": "uniBTC",
+        "symbol": "uniBTC"
       }
     ]
   ],
