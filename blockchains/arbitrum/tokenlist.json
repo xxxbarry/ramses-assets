@@ -773,6 +773,12 @@
         "decimals": 8,
         "name": "uniBTC",
         "symbol": "uniBTC"
+      },
+      {
+        "address": "0x4026AFfABd9032bCC87Fa05C02F088905f3dC09B",
+        "decimals": 18,
+        "name": "StakeWise",
+        "symbol": "SWISE"
       }
     ]
   ],
