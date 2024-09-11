@@ -72,7 +72,7 @@
       },
       {
         "address": "0x01f0a31698C4d065659b9bdC21B3610292a1c506",
-        "decimals" :18,
+        "decimals": 18,
         "name": "Wrapped eETH",
         "symbol": "weETH"
       },
@@ -117,8 +117,14 @@
         "decimals": 18,
         "name": "abcNURI",
         "symbol": "abcNURI"
+      },
+      {
+        "address": "0x77fbf86399ed764A084F77B9acCb049F3DbC32d2",
+        "decimals": 18,
+        "name": "Lore USD",
+        "symbol": "loreUSD"
       }
-    ] 
+    ]
   ],
   "version": {
     "major": 1,
