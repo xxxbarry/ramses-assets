@@ -489,6 +489,12 @@
         "decimals": 18,
         "name": "Avax Meme Index",
         "symbol": "AMI"
+      },
+      {
+        "address": "0xF99516BC189AF00FF8EfFD5A1f2295B67d70a90e",
+        "decimals": 18,
+        "name": "SalvorArtToken",
+        "symbol": "ART"
       }
     ]
   ],
