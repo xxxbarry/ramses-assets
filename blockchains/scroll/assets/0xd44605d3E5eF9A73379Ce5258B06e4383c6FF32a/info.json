@@ -1,0 +1,7 @@
+{
+    "name": "agETHWrapper",
+    "symbol": "agETH",
+    "type": "ERC20",
+    "decimals": 18,
+    "id": "0xd44605d3E5eF9A73379Ce5258B06e4383c6FF32a"
+  }

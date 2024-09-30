@@ -291,6 +291,12 @@
         "decimals": 18,
         "name": "Affine ultraETHs 2.0",
         "symbol": "ultraETHs"
+      },
+      {
+        "address": "0x2a4f1dcc79b83608f9e3BC1F3F55fBEfCBFaE885",
+        "decimals": 18,
+        "name": "agETHWrapper",
+        "symbol": "agETH"
       }
     ] 
   ],
