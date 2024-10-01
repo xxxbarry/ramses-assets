@@ -497,7 +497,18 @@
         "symbol": "ART"
       },
       {
-        "address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
+        "address": "0x03F77458E1eB9FA72B8186b573E40b106442f155",
+        "decimals": 18,
+        "name": "Blep",
+        "symbol": "BLEP"
+      },
+      {
+        "address": "0x73f49d00AC1B520F94d11248808c40774aeb0802",
+        "decimals": 18,
+        "name": "Majin",
+        "symbol": "MAJIN"
+      },
+      { "address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
         "decimals": 18,
         "name": "Arrow Token",
         "symbol": "ARROW"
