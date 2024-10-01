@@ -123,6 +123,12 @@
         "decimals": 18,
         "name": "Lore USD",
         "symbol": "loreUSD"
+      },
+      {
+        "address": "0xd44605d3E5eF9A73379Ce5258B06e4383c6FF32a",
+        "decimals": 18,
+        "name": "agETHWrapper",
+        "symbol": "agETH"
       }
     ]
   ],
