@@ -507,6 +507,11 @@
         "decimals": 18,
         "name": "Majin",
         "symbol": "MAJIN"
+      },
+      { "address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
+        "decimals": 18,
+        "name": "Arrow Token",
+        "symbol": "ARROW"
       }
     ]
   ],
