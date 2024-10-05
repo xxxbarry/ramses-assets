@@ -512,6 +512,11 @@
         "decimals": 18,
         "name": "Arrow Token",
         "symbol": "ARROW"
+      },
+      { "address": "0x5F896003952638F1875129eF8991a5a65c2124Aa",
+        "decimals": 18,
+        "name": "BOOBS",
+        "symbol": "（。 ㅅ 。）"
       }
     ]
   ],
