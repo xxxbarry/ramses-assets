@@ -508,15 +508,23 @@
         "name": "Majin",
         "symbol": "MAJIN"
       },
-      { "address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
+      {
+        "address": "0x5c5e384Bd4e36724B2562cCAA582aFd125277C9B",
         "decimals": 18,
         "name": "Arrow Token",
         "symbol": "ARROW"
       },
-      { "address": "0x5F896003952638F1875129eF8991a5a65c2124Aa",
+      {
+        "address": "0x5F896003952638F1875129eF8991a5a65c2124Aa",
         "decimals": 18,
         "name": "BOOBS",
         "symbol": "（。 ㅅ 。）"
+      },
+      {
+        "address": "0x432d38F83a50EC77C409D086e97448794cf76dCF",
+        "decimals": 18,
+        "name": "Heresy",
+        "symbol": "HERESY"
       }
     ]
   ],
