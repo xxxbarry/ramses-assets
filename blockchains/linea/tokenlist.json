@@ -303,6 +303,12 @@
         "decimals": 18,
         "name": "Faith - LordsForsaken.com",
         "symbol": "FAITH"
+      },
+      {
+        "address": "0x46bf60bd1d8e61fe8975b4122224f8ed81c1164f",
+        "decimals": 18,
+        "name": "Alpha Card Pack - LordsForsaken.com",
+        "symbol": "LORDα"
       }
     ] 
   ],
