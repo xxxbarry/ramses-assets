@@ -297,6 +297,12 @@
         "decimals": 18,
         "name": "agETHWrapper",
         "symbol": "agETH"
+      },
+      {
+        "address": "0x373d04A7F3594FF9011Af5084587182C0056721e",
+        "decimals": 18,
+        "name": "Faith - LordsForsaken.com",
+        "symbol": "FAITH"
       }
     ] 
   ],
