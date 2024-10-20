@@ -309,6 +309,12 @@
         "decimals": 18,
         "name": "Alpha Card Pack - LordsForsaken.com",
         "symbol": "LORDα"
+      },
+      {
+        "address":"0x42d4Eb291C00a243C7Cbc2759B47892ED1852a9d",
+        "decimals": 18,
+        "name": "Genesis",
+        "symbol": "GENESIS"
       }
     ] 
   ],
