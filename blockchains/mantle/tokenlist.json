@@ -213,6 +213,18 @@
         "decimals": 18,
         "name": "Aurelis Token",
         "symbol": "AU"
+      },
+      {
+        "address": "0x9F0C013016E8656bC256f948CD4B79ab25c7b94D",
+        "decimals": 18,
+        "name": "COOK",
+        "symbol": "COOK"
+      },
+      {
+        "address": "0xE6829d9a7eE3040e1276Fa75293Bde931859e8fA",
+        "decimals": 18,
+        "name": "cmETH",
+        "symbol": "cmETH"
       }
     
     ]
