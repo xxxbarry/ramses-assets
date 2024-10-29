@@ -531,6 +531,12 @@
         "decimals": 18,
         "name": "Heresy",
         "symbol": "HERESY"
+      },
+      {
+        "address": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C",
+        "decimals": 18,
+        "name": "ArenaToken",
+        "symbol": "ARENA"
       }
     ]
   ],

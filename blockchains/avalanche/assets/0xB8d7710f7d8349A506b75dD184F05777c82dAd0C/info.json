@@ -1,0 +1,7 @@
+{
+  "name": "ArenaToken",
+  "symbol": "ARENA",
+  "type": "ERC20",
+  "decimals": 18,
+  "id": "0xB8d7710f7d8349A506b75dD184F05777c82dAd0C"
+}
