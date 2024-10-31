@@ -315,6 +315,12 @@
         "decimals": 18,
         "name": "Genesis",
         "symbol": "GENESIS"
+      },
+      {
+        "address": "0x81BE2aCB2e9291dB6400f9f6a4D0f35f24de2E77",
+        "decimals": 18,
+        "name": "Linpuss",
+        "symbol": "LPUSS"
       }
     ] 
   ],
