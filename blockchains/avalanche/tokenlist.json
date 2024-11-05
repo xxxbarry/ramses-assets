@@ -539,11 +539,18 @@
         "symbol": "ARENA"
       },
       {
+        "address": "0x63B240a08222DAe3DDA7E1795F0CC2Eafc059E23",
+        "decimals": 18,
+        "name": "Access",
+        "symbol": "ASS"
+      },
+      {
         "address": "0x5b2Bf6a4Ed2026a2cdd8a41b3Bc5c8062AF0c11d",
         "decimals": 18,
         "name": "Make Avax Great Again",
         "symbol": "MAGA"
       }
+    ]
     ]
   ],
   "version": {
