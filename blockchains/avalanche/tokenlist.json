@@ -537,6 +537,12 @@
         "decimals": 18,
         "name": "ArenaToken",
         "symbol": "ARENA"
+      },
+      {
+        "address": "0x63B240a08222DAe3DDA7E1795F0CC2Eafc059E23",
+        "decimals": 18,
+        "name": "Access",
+        "symbol": "ASS"
       }
     ]
   ],
