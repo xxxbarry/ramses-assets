@@ -555,6 +555,12 @@
         "decimals": 18,
         "name": "Dimish",
         "symbol": "DISH"
+      },
+      {
+        "address": "0x2B6A85CD35D15691357eea61d88cB3f401A92FC3",
+        "decimals": 18,
+        "name": "SurvToken",
+        "symbol": "SURV"
       }
     ]
   ],
