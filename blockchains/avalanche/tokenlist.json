@@ -567,6 +567,12 @@
         "decimals": 18,
         "name": "Juicy",
         "symbol": "JUICY"
+      },
+      {
+        "address": "0x56B9F5E181550b40472fD8C10a34e4Ee6009c304",
+        "decimals": 18,
+        "name": "ThugBux",
+        "symbol": "THUGBUX"
       }
     ]
   ],
