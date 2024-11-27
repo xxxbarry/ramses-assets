@@ -573,6 +573,12 @@
         "decimals": 18,
         "name": "ThugBux",
         "symbol": "THUGBUX"
+      },
+      {
+        "address": "0xaD0AF099fe1551399D723e1EcD8eBA783c39AB56",
+        "decimals": 18,
+        "name": "BRUNO Bull Token",
+        "symbol": "BRUNO"
       }
     ]
   ],
