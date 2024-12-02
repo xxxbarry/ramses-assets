@@ -799,6 +799,12 @@
         "decimals": 8,
         "name": "Coinbase Wrapped BTC",
         "symbol": "cbBTC"
+      },
+      {
+        "address": "0x000D636bD52BFc1B3a699165Ef5aa340BEA8939c",
+        "decimals": 18,
+        "name": "Melon Token",
+        "symbol": "MLN"
       }
     ]
   ],
