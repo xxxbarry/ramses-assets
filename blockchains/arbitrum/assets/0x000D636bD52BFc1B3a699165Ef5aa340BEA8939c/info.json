@@ -1,6 +1,6 @@
 {
-  "name": "Melon Token",
-  "symbol": "MLN",
+  "name": "Open Dollar Governance",
+  "symbol": "ODG",
   "type": "ERC20",
   "decimals": 18,
   "id": "0x000D636bD52BFc1B3a699165Ef5aa340BEA8939c"
