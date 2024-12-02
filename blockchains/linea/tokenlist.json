@@ -327,6 +327,12 @@
         "decimals": 18,
         "name": "Tbh Creature Yippee",
         "symbol": "TBH"
+      },
+      {
+        "address": "0x092b9E25a7D143c83D44c27194F5CeE7c1150F22",
+        "decimals": 18,
+        "name": "CatWifCap",
+        "symbol": "CWC"
       }
     ] 
   ],

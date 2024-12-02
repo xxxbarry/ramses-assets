@@ -555,6 +555,30 @@
         "decimals": 18,
         "name": "Dimish",
         "symbol": "DISH"
+      },
+      {
+        "address": "0x2B6A85CD35D15691357eea61d88cB3f401A92FC3",
+        "decimals": 18,
+        "name": "SurvToken",
+        "symbol": "SURV"
+      },
+      {
+        "address": "0xC654721fBf1F374fd9FfA3385Bba2F4932A6af55",
+        "decimals": 18,
+        "name": "Juicy",
+        "symbol": "JUICY"
+      },
+      {
+        "address": "0x56B9F5E181550b40472fD8C10a34e4Ee6009c304",
+        "decimals": 18,
+        "name": "ThugBux",
+        "symbol": "THUGBUX"
+      },
+      {
+        "address": "0xaD0AF099fe1551399D723e1EcD8eBA783c39AB56",
+        "decimals": 18,
+        "name": "BRUNO Bull Token",
+        "symbol": "BRUNO"
       }
     ]
   ],
