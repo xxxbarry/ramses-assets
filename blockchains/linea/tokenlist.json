@@ -333,6 +333,12 @@
         "decimals": 18,
         "name": "CatWifCap",
         "symbol": "CWC"
+      },
+      {
+        "address": "0xb3B3CA7cb0BCCb6A9316764826324A312665DC53",
+        "decimals": 18,
+        "name": "L.I.N.E.A - Lost In Never Ending Airdrop",
+        "symbol": "LINEA"
       }
     ] 
   ],
