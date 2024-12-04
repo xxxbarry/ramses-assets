@@ -805,6 +805,18 @@
         "decimals": 18,
         "name": "Melon Token",
         "symbol": "MLN"
+      },
+      {
+        "address": "0x7712da72127d5dD213B621497D6E4899d5989e5C",
+        "decimals": 18,
+        "name": "Aryze",
+        "symbol": "RYZE"
+      },
+      {
+        "address": "0x6099F4CFeAcb9be8d5c3435Da0Ba2853Cd5188E4",
+        "decimals": 18,
+        "name": "ARYZE eGold",
+        "symbol": "eGold"
       }
     ]
   ],
