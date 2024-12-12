@@ -579,6 +579,12 @@
         "decimals": 18,
         "name": "BRUNO Bull Token",
         "symbol": "BRUNO"
+      },
+      {
+        "address": "0x29e925ca32298417370B1fB5edB22873503C0a4b",
+        "name": "RocketFrog",
+        "symbol": "ROCKETFROG",
+        "decimals": 18
       }
     ]
   ],
