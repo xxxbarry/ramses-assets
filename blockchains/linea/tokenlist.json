@@ -311,7 +311,7 @@
         "symbol": "LORDα"
       },
       {
-        "address":"0x42d4Eb291C00a243C7Cbc2759B47892ED1852a9d",
+        "address": "0x42d4Eb291C00a243C7Cbc2759B47892ED1852a9d",
         "decimals": 18,
         "name": "Genesis",
         "symbol": "GENESIS"
@@ -345,8 +345,14 @@
         "decimals": 18,
         "name": "Beaver Coin",
         "symbol": "BEAVER"
+      },
+      {
+        "address": "0x8b9bB9c309E1838a2d9e435eBac3E8d928354215",
+        "name": "Froxy",
+        "symbol": "FROXY",
+        "decimals": 18
       }
-    ] 
+    ]
   ],
   "version": {
     "major": 1,
