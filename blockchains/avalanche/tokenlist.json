@@ -587,7 +587,12 @@
         "symbol": "BRUNO"
       },
       {
-
+        "address": "0x29e925ca32298417370B1fB5edB22873503C0a4b",
+        "name": "RocketFrog",
+        "symbol": "ROCKETFROG",
+        "decimals": 18
+      },
+      {
         "address": "0xE12d0d9C33f302c543Cb62aD01E5CfC4d4cF7475",
         "name": "TREErection",
         "symbol": "TREERECT",
@@ -603,6 +608,7 @@
         "decimals": 18,
         "name": "STICK",
         "symbol": "STICK"
+
       }
     ]
   ],
