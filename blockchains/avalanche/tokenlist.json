@@ -579,6 +579,12 @@
         "decimals": 18,
         "name": "BRUNO Bull Token",
         "symbol": "BRUNO"
+      },
+      {
+        "address": "0xa43f06724E10561Ea416ad7438CCFC94f486374F",
+        "name": "xAPEX",
+        "symbol": "xAPEX",
+        "decimals": 18
       }
     ]
   ],
