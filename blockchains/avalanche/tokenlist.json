@@ -575,10 +575,22 @@
         "symbol": "THUGBUX"
       },
       {
+        "address": "0x79Ea4E536f598dCd67C76Ee3829f84AB9E72A558",
+        "decimals": 18,
+        "name": "ai9000",
+        "symbol": "AI9000"
+      },
+      {
         "address": "0xaD0AF099fe1551399D723e1EcD8eBA783c39AB56",
         "decimals": 18,
         "name": "BRUNO Bull Token",
         "symbol": "BRUNO"
+      },
+      {
+        "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+        "name": "Colony Avalanche Index",
+        "symbol": "CAI",
+        "decimals": 18
       },
       {
         "address": "0xB44B645b5058F7e393F3AE6Af58A4CEf67006196",
