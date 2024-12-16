@@ -587,6 +587,12 @@
         "symbol": "BRUNO"
       },
       {
+
+        "address": "0xE12d0d9C33f302c543Cb62aD01E5CfC4d4cF7475",
+        "name": "TREErection",
+        "symbol": "TREERECT",
+        "decimals": 18
+      },
         "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
         "name": "Colony Avalanche Index",
         "symbol": "CAI",
