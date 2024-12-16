@@ -311,7 +311,7 @@
         "symbol": "LORDα"
       },
       {
-        "address":"0x42d4Eb291C00a243C7Cbc2759B47892ED1852a9d",
+        "address": "0x42d4Eb291C00a243C7Cbc2759B47892ED1852a9d",
         "decimals": 18,
         "name": "Genesis",
         "symbol": "GENESIS"
@@ -345,8 +345,14 @@
         "decimals": 18,
         "name": "Beaver Coin",
         "symbol": "BEAVER"
+      },
+      {
+        "address": "0x5860a0bF37133f8461b2DEDe7C80e55D6bfF3721",
+        "name": "Frax Share",
+        "symbol": "FXS",
+        "decimals": 18
       }
-    ] 
+    ]
   ],
   "version": {
     "major": 1,
