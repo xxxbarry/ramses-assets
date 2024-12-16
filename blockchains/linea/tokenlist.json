@@ -347,6 +347,13 @@
         "symbol": "BEAVER"
       },
       {
+
+        "address": "0x5860a0bF37133f8461b2DEDe7C80e55D6bfF3721",
+        "name": "Frax Share",
+        "symbol": "FXS",
+      },
+      {
+
         "address": "0x8b9bB9c309E1838a2d9e435eBac3E8d928354215",
         "name": "Froxy",
         "symbol": "FROXY",
