@@ -587,12 +587,12 @@
         "symbol": "BRUNO"
       },
       {
-        {
         "address": "0xa43f06724E10561Ea416ad7438CCFC94f486374F",
         "name": "xAPEX",
         "symbol": "xAPEX",
         "decimals": 18
       },
+      {
         "address": "0x29e925ca32298417370B1fB5edB22873503C0a4b",
         "name": "RocketFrog",
         "symbol": "ROCKETFROG",
@@ -604,6 +604,7 @@
         "symbol": "TREERECT",
         "decimals": 18
       },
+      {
         "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
         "name": "Colony Avalanche Index",
         "symbol": "CAI",
