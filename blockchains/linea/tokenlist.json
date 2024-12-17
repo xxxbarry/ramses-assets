@@ -347,6 +347,12 @@
         "symbol": "BEAVER"
       },
       {
+        "address": "0x45229ac791C56cb86Fc1972F3082dAb19385dfA2",
+        "decimals": 18,
+        "name": "Foxx Of Linea",
+        "symbol": "FOXX",
+      },
+      {
         "address": "0x5860a0bF37133f8461b2DEDe7C80e55D6bfF3721",
         "decimals": 18,
         "name": "Frax Share",
@@ -354,6 +360,7 @@
       },
       {
         "address": "0x8b9bB9c309E1838a2d9e435eBac3E8d928354215",
+        "decimals": 18,
         "name": "Froxy",
         "symbol": "FROXY",
         "decimals": 18
