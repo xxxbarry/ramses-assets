@@ -575,10 +575,46 @@
         "symbol": "THUGBUX"
       },
       {
+        "address": "0x79Ea4E536f598dCd67C76Ee3829f84AB9E72A558",
+        "decimals": 18,
+        "name": "ai9000",
+        "symbol": "AI9000"
+      },
+      {
         "address": "0xaD0AF099fe1551399D723e1EcD8eBA783c39AB56",
         "decimals": 18,
         "name": "BRUNO Bull Token",
         "symbol": "BRUNO"
+      },
+      {
+        "address": "0xa43f06724E10561Ea416ad7438CCFC94f486374F",
+        "name": "xAPEX",
+        "symbol": "xAPEX",
+        "decimals": 18
+      },
+      {
+        "address": "0x29e925ca32298417370B1fB5edB22873503C0a4b",
+        "name": "RocketFrog",
+        "symbol": "ROCKETFROG",
+        "decimals": 18
+      },
+      {
+        "address": "0xE12d0d9C33f302c543Cb62aD01E5CfC4d4cF7475",
+        "name": "TREErection",
+        "symbol": "TREERECT",
+        "decimals": 18
+      },
+      {
+        "address": "0x48f88A3fE843ccb0b5003e70B4192c1d7448bEf0",
+        "name": "Colony Avalanche Index",
+        "symbol": "CAI",
+        "decimals": 18
+      },
+      {
+        "address": "0xB44B645b5058F7e393F3AE6Af58A4CEf67006196",
+        "decimals": 18,
+        "name": "STICK",
+        "symbol": "STICK"
       }
     ]
   ],
