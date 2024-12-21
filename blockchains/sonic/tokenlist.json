@@ -1,0 +1,38 @@
+{
+  "name": "Shadow: Sonic Tokens List",
+  "logoURI": "",
+  "timestamp": "2024-12-21T14:33:26.183301",
+  "tokens": [
+    [
+      {
+        "name": "Wrapped Sonic",
+        "address": "0x039e2fB66102314Ce7b64Ce5Ce3E5183bc94aD38",
+        "symbol": "wS",
+        "decimals": 18
+      },
+      {
+        "name": "Bridged USDC",
+        "address": "0x29219dd400f2Bf60E5a23d13Be72B486D4038894",
+        "symbol": "USDC.e",
+        "decimals": 6
+      },
+      {
+        "name": "Bridged EURC",
+        "address": "0xe715cbA7B5cCb33790ceBFF1436809d36cb17E57",
+        "symbol": "EURC.e",
+        "decimals": 6
+      },
+      {
+        "name": "Wrapped Ether on Sonic",
+        "address": "0x309C92261178fA0CF748A855e90Ae73FDb79EBc7",
+        "symbol": "WETH",
+        "decimals": 18
+      }
+    ]
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
