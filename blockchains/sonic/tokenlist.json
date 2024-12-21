@@ -27,6 +27,18 @@
         "address": "0x309C92261178fA0CF748A855e90Ae73FDb79EBc7",
         "symbol": "WETH",
         "decimals": 18
+      },
+      {
+        "name": "GOGGLES",
+        "address": "0x9fDbC3f8Abc05Fa8f3Ad3C17D2F806c1230c4564",
+        "symbol": "GOGLZ",
+        "decimals": 18
+      },
+      {
+        "name": "Beets Staked Sonic",
+        "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
+        "symbol": "stS",
+        "decimals": 18
       }
     ]
   ],
