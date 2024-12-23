@@ -39,6 +39,12 @@
         "address": "0xE5DA20F15420aD15DE0fa650600aFc998bbE3955",
         "symbol": "stS",
         "decimals": 18
+      },
+      {
+        "name": "Sonic USD",
+        "address": "0xd3DCe716f3eF535C5Ff8d041c1A41C3bd89b97aE",
+        "symbol": "scUSD",
+        "decimals": 6
       }
     ]
   ],
