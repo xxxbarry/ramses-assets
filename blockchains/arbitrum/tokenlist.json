@@ -23,6 +23,12 @@
         "decimals": 6
       },
       {
+        "name": "Tether USD",
+        "address": "0x422E3b839e0bCf7C9dBc7dF39329E9380096149C",
+        "symbol": "USDC",
+        "decimals": 18
+      },
+      {
         "name": "DAI Stablecoin",
         "address": "0xda10009cbd5d07dd0cecc66161fc93d7c9000da1",
         "symbol": "DAI",
